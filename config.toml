@@ -1,0 +1,5 @@
+baseURL = 'https://echauveau.github.io'
+languageCode = 'fr'
+title = 'Estelle Chauveau Homepage'
+
+theme = "hugo-ttl"
