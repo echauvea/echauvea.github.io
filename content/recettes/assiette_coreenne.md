@@ -22,7 +22,7 @@ Un plat plein de saveurs, à assaisoner généreusement!
 - 300g de pousses d'épinard lavées
 - 6 oeufs
 - 150g de riz
-- environ 200g de légumes lactofermentées, j'utilise [ceux-là](https://www.shenfermentation.com)
+- environ 200g de légumes lactofermentés
 - de la sauce soja salé
 - de la sauce Sriracha
 - de l'huile (de colza par exemple)
