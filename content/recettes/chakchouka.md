@@ -1,7 +1,7 @@
 ---
 title: "Chakchouka"
 date: 2022-07-23T14:36:46+02:00
-draft: false
+tags: ['afrique', 'poivrons', 'piments', 'oignons', 'oeufs']
 ---
 
 **Temps de préparation** : 30 minutes.
