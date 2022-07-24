@@ -2,9 +2,9 @@
 <header><h1 id="tag_{{ .Title }}">{{ .Title | title }}</h1></header>
 <article>
   {{ .Content -}}
-  <ul>
+  <ul id="article_list">
     {{- range.Pages }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    <li data-tags="{{.Params.Tags}}"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end -}}
   </ul>
 </article>

@@ -3,3 +3,8 @@ languageCode = 'fr'
 title = 'Estelle Chauveau Homepage'
 
 theme = "hugo-ttl"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
