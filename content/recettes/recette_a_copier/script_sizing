@@ -1,0 +1,1 @@
+for f in $(cat /tmp/pictures_bouffe); do convert -resize 50% $f $f; done 
