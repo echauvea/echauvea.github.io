@@ -15,7 +15,11 @@ Celles-ci sont à base d'amandes entières, de purée de noix de cajou, et parfu
 
 **Ustensiles** : Un robot mixeur.
 
+---
+
 Ces petites boules principalement constituées de noix et de graines sont gourmandes, saines, et une bonne source d'énergie ainsi que de protéines. Idéales à consommer pendant une session de sport, elle sont aussi très bien accompagnées de fruits frais pour le petit déjeuner.
+
+---
 
 ## Recette
 
