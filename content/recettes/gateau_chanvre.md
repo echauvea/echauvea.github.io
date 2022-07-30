@@ -1,7 +1,7 @@
 ---
 title: "Gâteau de l'espace, au chanvre et aux framboises"
 date: 2022-07-29T17:22:42+02:00
-tags: ['gateau','espace','chanvre','framboises','coulant','moelleux','graine','super aliment','protéines','fer','magnésium','zinc','cuivre','chia','calcium','','','','','','','','','','']
+tags: ['gateau','espace','chanvre','framboises','coulant','moelleux','graine','super aliment','protéines','fer','magnésium','zinc','cuivre','chia','calcium','protéine','purée de chanvre','thé','oeufs','sucre','cassonade','farine','levure chimique','huile olive']
 ---
 
 ![](/pictures/gateau_chanvre_2.jpg)
