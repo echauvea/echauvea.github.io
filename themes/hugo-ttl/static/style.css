@@ -1,3 +1,4 @@
+
 footer {
     margin-top: 3em ;
     text-align: center ;
@@ -9,3 +10,44 @@ footer {
 .taglist {
     text-align: center ;
 }
+
+body {
+    background: floralwhite ;
+    color: black ;
+    max-width: 850px ;
+    margin: auto ;
+    padding: 0 16px ;
+    margin-bottom: 500px ;
+    scrollbar-color: gray #151515;
+    font-family: sans-serif ;
+}
+
+::-webkit-scrollbar {
+    width: .66vw;
+    background-color: #151515;
+}
+::-webkit-scrollbar-thumb {
+    background-color: gray;
+    border-radius: 5px;
+}
+
+a {
+    color: navy ;
+    text-decoration: none ;
+}
+
+table
+{
+    border-collapse: collapse;
+}
+td, th /* Mettre une bordure sur les td ET les th */
+{
+    border: 1px solid gray;
+}
+
+#tagcloud {
+    list-style: none ;
+    text-align: center ;
+    padding: 0 ;
+}
+
