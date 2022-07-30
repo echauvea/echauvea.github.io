@@ -16,9 +16,9 @@
   </head>
   <body>
     {{ if not .IsHome }}
-      <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+        <li class="header"><a href="{{ .Site.BaseURL }}">Home</a></li>
       {{ if not .IsSection }}
-        <li><a href="{{ .Site.BaseURL }}{{.Section}}">Retourner aux {{ .CurrentSection.Title }}</a></li>
+        <li class="header"><a href="{{ .Site.BaseURL }}{{.Section}}">Retourner aux {{ .CurrentSection.Title }}</a></li>
       {{ end }}
     {{ end }}
     {{- if .Site.Menus.main }}

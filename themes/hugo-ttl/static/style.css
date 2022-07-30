@@ -1,3 +1,14 @@
+body {
+    background: #FFFAF0; /* floralwhite */
+    color: black;
+    max-width: 850px;
+    margin: auto;
+    padding: 0 16px;
+    margin-bottom: 500px;
+    scrollbar-color: gray #151515;
+    font-family: sans-serif;
+    text-align: justify;
+}
 
 footer {
     margin-top: 3em ;
@@ -9,17 +20,7 @@ footer {
 
 .taglist {
     text-align: center ;
-}
-
-body {
-    background: floralwhite ;
-    color: black ;
-    max-width: 850px ;
-    margin: auto ;
-    padding: 0 16px ;
-    margin-bottom: 500px ;
-    scrollbar-color: gray #151515;
-    font-family: sans-serif ;
+    margin-top: 5em ;
 }
 
 ::-webkit-scrollbar {
@@ -32,17 +33,30 @@ body {
 }
 
 a {
-    color: navy ;
+    color: #3F3A30;
+    text-decoration: none ;
+}
+a:hover{
+    color: #5F5A50;
     text-decoration: none ;
 }
 
 table
 {
     border-collapse: collapse;
+    margin: auto;
 }
-td, th /* Mettre une bordure sur les td ET les th */
+th /* Mettre une bordure sur les td ET les th */
 {
     border: 1px solid gray;
+    padding: 5px;
+    background: #9F9A90;
+    color: #FFFFFF;
+}
+td /* Mettre une bordure sur les td ET les th */
+{
+    border: 1px solid gray;
+    padding: 5px;
 }
 
 #tagcloud {
@@ -51,3 +65,26 @@ td, th /* Mettre une bordure sur les td ET les th */
     padding: 0 ;
 }
 
+h1 {
+    font-size: 28pt;
+}
+
+h2 {
+  padding: 15px;
+  text-align: center;
+  background: #5F5A50;
+  color: white;
+  font-size: 20px;
+}
+
+li.header {
+    display: inline-block;
+    list-style: none;
+}
+
+li.header a {
+    padding: 10px;
+    display: inline-block;
+    background: #5F5A50;
+    color: #FFFFFF;
+}
