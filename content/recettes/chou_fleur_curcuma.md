@@ -4,15 +4,12 @@ date: 2022-07-26T14:17:05+02:00
 tags: ['curcuma','chou fleur','oignon','tempeh','huile de colza','végétarien','vegan','soja','vapeur','','','','','']
 ---
 
-![](/pictures/chou_fleur_1.jpg)
+![](/pictures/chou_fleur_1.jpg)<br>
+*La belle couleur vive du curcuma!*
 
-La belle couleur vive du curcuma!
-
-**Temps de préparation** : 15 minutes.
-
-**Temps de cuisson** : En parallèle de la préparation, donc 15 minutes tout compris!
-
-**Ustensiles** : Dans l'idéal un cuit vapeur, mais ce n'est pas nécessaire.
+- **Temps de préparation** : 15 minutes.
+- **Temps de cuisson** : En parallèle de la préparation, donc 15 minutes tout compris!
+- **Ustensiles** : Dans l'idéal un cuit vapeur, mais ce n'est pas nécessaire.
 
 ---
 
