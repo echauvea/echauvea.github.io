@@ -1,18 +1,15 @@
 ---
 title: "Assiette d'inspiration coréenne"
 date: 2022-07-24T13:15:50+02:00
-tags: ['épinard', 'oeuf', 'riz', 'soja', 'sésame', 'asie']
+tags: ['épinard', 'oeufs', 'riz', 'soja', 'sésame', 'asie', 'végétarien', 'asiatique', 'sriracha', 'piment', 'coréen', 'huile de colaz', 'sésame']
 ---
 
-![Assiette coréenne](/pictures/assiette_coreenne.jpg)
+![Assiette coréenne](/pictures/assiette_coreenne.jpeg)<br>
+*La délicieuse sauce Sriracha illumine l'assiette.*
 
-La délicieuse sauce Sriracha illumine l'assiette.
-
-**Temps de préparation** : 30 minutes.
-
-**Temps de cuisson** : Compris dans le temps de préparation car tout se fait en paralèlle.
-
-**Ustensiles** : Aucun ustensile particulier. 
+- **Temps de préparation** : 30 minutes.
+- **Temps de cuisson** : Compris dans le temps de préparation car tout se fait en parallèle.
+- **Ustensiles** : Aucun ustensile particulier. 
 
 ---
 

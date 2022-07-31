@@ -1,10 +1,11 @@
 ---
 title: "Chakchouka"
 date: 2022-07-23T14:36:46+02:00
-tags: ['afrique', 'poivrons', 'piments', 'oignons', 'oeuf']
+tags: ['afrique', 'poivrons', 'piments', 'oignons', 'oeuf', 'végétarien', 'tempeh', 'ail', 'petits pois', 'cannelle', 'persil', 'piment', 'crème végéale au soja', 'salé', 'tomate']
 ---
 
-**Temps de préparation** : 30 minutes.
+- **Temps de préparation** : 30 minutes.
+- **Temps de cuisson** : Compris dans la préparation car tout se fait en parallèle.
 
 ---
 
