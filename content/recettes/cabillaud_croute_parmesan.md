@@ -4,15 +4,12 @@ date: 2022-07-26T13:29:57+02:00
 tags: ['cabillaud','poisson','parmesan','sucré','salé','corn flakes','huile', 'olive','sirop', 'érable','croûte']
 ---
 
-![](/pictures/cabillaud_crumble.jpg)
+![](/pictures/cabillaud_crumble.jpg)<br>
+*Cabillaud réalisé par Cyril, un vrai chef!*
 
-Cabillaud réalisé par Cyril, un vrai chef! 
-
-**Temps de préparation** : 15 minutes.
-
-**Temps de cuisson** : une dizaine de minutes.
-
-**Ustensiles** : Un mixeur pour réduire les corn flakes en poudre grossière, ou à défaut un rouleau à pâtisserie. 
+- **Temps de préparation** : 15 minutes.
+- **Temps de cuisson** : une dizaine de minutes.
+- **Ustensiles** : Un mixeur pour réduire les corn flakes en poudre grossière, ou à défaut un rouleau à pâtisserie. 
 
 ---
 
