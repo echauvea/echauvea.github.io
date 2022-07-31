@@ -5,21 +5,20 @@ tags: ['muffin','sport','petit déjeuner','course','index glycémique','farine c
 ---
 
 ![](/pictures/muffin_cuit.jpg)
-
-*Rigolo ce muffin tout bombé, c'était l'ancienne version de ma recette. Celui de dessous, plus raplaplat, est bien plus gourmand!*
-
-![](/pictures/muffin_cuit_2.jpg)
+![](/pictures/muffin_cuit_2.jpg)<br>
+*Rigolo ce muffin tout bombé, c'était l'ancienne version de ma recette. Celui de droite, plus raplaplat, correspond à la recette actuelle: il est bien plus gourmand!*
 
 - **Temps de préparation** : 15 minutes.
 - **Temps de cuisson** : 18 minutes.
 - **Ustensiles** : Environ 7 petits moules à muffin et une petite cuillère doseuse, bien pratique pour remplir les moules.
 
-<div class="recette_desc">
-Ces petits muffins sont parfaits pour un petit déjeuner jusqu'à une heure avant le sport, par exemple avant une course. Ils apportent les calories nécessaires, et ont un index glycémique régulé par la farine complète, la banane, le miel et le son d'avoine. Ainsi la glycémie augmente progressivement, et il n'y a pas de pic d'insuline intempestif qui pourrait induire l'effet inverse de celui escompté. On choisira pour cela de préférence une banane pas trop mûre, et un miel à index glycémique faible, tel que le miel d'acacia riche en fructose.
-</div>
+---
 
+Ces petits muffins sont parfaits pour un petit déjeuner jusqu'à une heure avant le sport, par exemple avant une course. Ils apportent les calories nécessaires, et ont un index glycémique régulé par la farine complète, la banane, le miel et le son d'avoine. Ainsi la glycémie augmente progressivement, et il n'y a pas de pic d'insuline intempestif qui pourrait induire l'effet inverse de celui escompté. On choisira pour cela de préférence une banane pas trop mûre, et un miel à index glycémique faible, tel que le miel d'acacia riche en fructose.
 
  Mais ces muffins ont aussi l'avantage d'être digestes car peu gras. Avant une sortie longue, j'en prend deux avec une grande tasse de café, une heure avant le départ. Cela me donne de l'énergie pour quasiment deux heures de courses.
+
+---
 
 ## Recette
 
