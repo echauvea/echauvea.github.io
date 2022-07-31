@@ -5,15 +5,12 @@ tags: ['amandes','purée de noix de cajou','vanille','crue','graines','sport','e
 ---
 
 
-![](/pictures/energy_balls.jpeg)
+![](/pictures/energy_balls.jpeg)<br>
+*Celles-ci sont à base d'amandes entières, de purée de noix de cajou, et parfumées à la vanille :P*
 
-Celles-ci sont à base d'amandes entières, de purée de noix de cajou, et parfumées à la vanille :P
-
-**Temps de préparation** : 20 minutes.
-
-**Temps de cuisson** : recette crue!
-
-**Ustensiles** : Un robot mixeur.
+- **Temps de préparation** : 20 minutes.
+- **Temps de cuisson** : recette crue!
+- **Ustensiles** : Un robot mixeur.
 
 ---
 
