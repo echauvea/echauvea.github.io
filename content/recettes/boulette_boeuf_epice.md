@@ -4,15 +4,12 @@ date: 2022-07-25T17:25:51+02:00
 tags: ['viande','boeuf','oignon','cumin','soja','boulette','épice','avoine']
 ---
 
-![boulettes](/pictures/boulettes_simplissimes.jpeg)
+![boulettes](/pictures/boulettes_simplissimes.jpeg)<br>
+*Les boulettes accompagnées de légumes et d'une sauce à la tomate.*
 
-Les boulettes accompagnées de légumes et d'une sauce à la tomate. 
-
-**Temps de préparation** : 10 minutes.
-
-**Temps de cuisson** : 12 minutes.
-
-**Ustensiles** : Aucun ustensile particulier. 
+- **Temps de préparation** : 10 minutes.
+- **Temps de cuisson** : 12 minutes.
+- **Ustensiles** : Aucun ustensile particulier. 
 
 ---
 
