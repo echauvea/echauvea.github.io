@@ -4,15 +4,12 @@ date: 2022-07-26T14:48:42+02:00
 tags: ['végétarien','vegan','endives','oranges','gousse ail','huile olive','herbes provence','poisson']
 ---
 
-![](/pictures/endives_braisees.jpeg)
+![](/pictures/endives_braisees.jpeg)<br>
+*En fin de cuisson!*
 
-En fin de cuisson!
-
-**Temps de préparation** : 25 minutes.
-
-**Temps de cuisson** : Inclu dans le temps de préparation.
-
-**Ustensiles** : -
+- **Temps de préparation** : 25 minutes.
+- **Temps de cuisson** : Inclu dans le temps de préparation.
+- **Ustensiles** : -
 
 ---
 
