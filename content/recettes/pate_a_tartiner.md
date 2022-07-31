@@ -4,11 +4,10 @@ date: 2022-07-24T19:29:36+02:00
 tags: ['tartinade', 'chocolat', 'cacao', 'graîne', 'courge', 'purée', 'chanvre', 'tournesol', 'lin', 'sésame', 'vanille', 'pâte']
 ---
 
-![Pâte à tartiner au chocolat noir.](/pictures/pate_a_tartiner.jpg)
+![Pâte à tartiner au chocolat noir.](/pictures/pate_a_tartiner.jpg)<br>
+*Pâte à tartiner au chocolat noir.*
 
-Pâte à tartiner au chocolat noir.
-
-**Temps de préparation** : 5 minutes.
+**Temps de préparation** : 5 minutes (recette sans cuisson).
 
 ---
 
@@ -26,8 +25,6 @@ Principalement à base de graines, cette pâte à tartiner regorge de protéines
 ### Instructions
 
 1. Mélanger puis tartiner.
-
----
 
 ## Recette version ++
 
