@@ -4,6 +4,7 @@ title = 'Estelle Chauveau Homepage'
 
 theme = "hugo-ttl"
 canonifyURLs = true
+disqusShortname = 'echauveau-hugo'
 
 [markup]
   [markup.goldmark]
