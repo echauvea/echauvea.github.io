@@ -3,6 +3,7 @@ languageCode = 'fr'
 title = 'Estelle Chauveau Homepage'
 
 theme = "hugo-ttl"
+canonifyURLs = true
 
 [markup]
   [markup.goldmark]
