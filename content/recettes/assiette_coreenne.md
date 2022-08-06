@@ -1,6 +1,7 @@
 ---
 title: "Assiette d'inspiration coréenne"
 date: 2022-07-24T13:15:50+02:00
+commentpage: true
 tags: ['épinard', 'oeufs', 'riz', 'soja', 'sésame', 'asie', 'végétarien', 'asiatique', 'sriracha', 'piment', 'coréen', 'huile de colaz', 'sésame']
 ---
 
