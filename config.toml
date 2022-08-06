@@ -1,10 +1,10 @@
-baseURL = 'https://cmoron.github.io/echauveau_hugo'
+baseURL = 'https://echauve.github.io'
 languageCode = 'fr'
 title = 'Estelle Chauveau Homepage'
 
 theme = "hugo-ttl"
 canonifyURLs = true
-disqusShortname = 'echauveau-hugo'
+disqusShortname = 'echauvea'
 
 [markup]
   [markup.goldmark]
