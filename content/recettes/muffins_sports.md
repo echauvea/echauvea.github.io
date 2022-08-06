@@ -1,6 +1,7 @@
 ---
 title: "Les muffins sports"
 date: 2022-07-30T16:34:25+02:00
+commentpage: true
 tags: ['muffin','sport','petit déjeuner','course','index glycémique','farine complète','banane','miel','son avoine','acacia','digeste','oeuf','bio','sucre','cassonade','levure','vanille liquide','pépite de chocolat','moules', 'congeler', 'végétarien', 'sucré', 'dessert']
 ---
 

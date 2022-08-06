@@ -1,6 +1,7 @@
 ---
 title: "Chakchouka"
 date: 2022-07-23T14:36:46+02:00
+commentpage: true
 tags: ['afrique', 'poivrons', 'piments', 'oignons', 'oeuf', 'végétarien', 'tempeh', 'ail', 'petits pois', 'cannelle', 'persil', 'piment', 'crème végéale au soja', 'salé', 'tomate']
 ---
 
