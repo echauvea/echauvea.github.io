@@ -2,7 +2,7 @@
 title: "Sauce salade au foie de morue"
 date: 2022-08-07T19:33:24+02:00
 commentpage : true
-tags: ['','','','','','','']
+tags: ['sauce','foie de morue','salade','salé','sans gluten','recette','onctueuse','vitamine B12','yaourt','moutarde','piment','vianigre balsamique']
 ---
 
 
