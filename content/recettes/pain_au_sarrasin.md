@@ -2,7 +2,7 @@
 title: "Pain au sarrasin"
 date: 2022-07-31T19:46:51+02:00
 commentpage: true
-tags: ['pain','sans gluten','sarrasin','végétarien','vegan','levure','salé']
+tags: ['pain','sans gluten','sarrasin','végétarien','vegan','levure','salé', 'recette']
 ---
 
 ![](/pictures/pain_2.jpg)<br>
