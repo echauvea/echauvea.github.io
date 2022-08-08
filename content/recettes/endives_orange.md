@@ -2,7 +2,7 @@
 title: "Endives braisées à l'orange"
 date: 2022-07-26T14:48:42+02:00
 commentpage: true
-tags: ['végétarien','vegan','endives','oranges','gousse ail','huile olive','herbes provence','poisson']
+tags: ['végétarien','vegan','endives','oranges','gousse ail','huile olive','herbes provence','poisson', 'recette', 'salé', 'sans gluten']
 ---
 
 ![](/pictures/endives_braisees.jpeg)<br>
