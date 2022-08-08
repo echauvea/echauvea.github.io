@@ -2,11 +2,12 @@
 title: "Chakchouka"
 date: 2022-07-23T14:36:46+02:00
 commentpage: true
-tags: ['afrique', 'poivrons', 'piments', 'oignons', 'oeuf', 'végétarien', 'tempeh', 'ail', 'petits pois', 'cannelle', 'persil', 'piment', 'crème végéale au soja', 'salé', 'tomate']
+tags: ['recette', 'afrique', 'poivrons', 'piments', 'oignons', 'vegan', 'végétarien', 'tempeh', 'ail', 'petits pois', 'cannelle', 'persil', 'piment', 'crème végétale au soja', 'salé', 'tomate']
 ---
 
 - **Temps de préparation** : 30 minutes.
 - **Temps de cuisson** : Compris dans la préparation car tout se fait en parallèle.
+- **Ustensiles** : Eventuellement un presse-ail. 
 
 ---
 
@@ -36,7 +37,7 @@ La chakchouka est un plat originaire d'Afrique du Nord, composé essentiellement
 
 2. Faites les revenir dans de l'huile d'olive pendant une petite dizaine de minute. Ajouter la cannelle à la fin.
 
-3. Pendant ce temps ciserler le persil et couper le tempeh en cubes.
+3. Pendant ce temps ciseler le persil et couper le tempeh en cubes.
 
 4. Ajouter la sauce tomate, la crème, les petits pois surgelés, le piment le sel et le poivre, et laisser cuire 5/10 minutes de plus.
 
