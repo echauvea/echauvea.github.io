@@ -2,7 +2,7 @@
 title: "Energy balls"
 date: 2022-07-29T17:09:53+02:00
 commentpage: true
-tags: ['amandes','purée de noix de cajou','vanille','crue','graines','sport','energy ball','petit dejeuner','végétarien','vegan','noisettes','fruits secs','miel','son avoine','cacao','canelle','coco rapée','huile de sésame','tournesol','chanvre','boules','énergie','congeler','conserver']
+tags: ['amandes','purée de noix de cajou','vanille','crue','graines','sport','energy ball','petit dejeuner','végétarien','vegan','noisettes','fruits secs','miel','son avoine','cacao','canelle','coco rapée','huile de sésame','tournesol','chanvre','boules','énergie','congeler','conserver', 'recette', 'sucré']
 ---
 
 
