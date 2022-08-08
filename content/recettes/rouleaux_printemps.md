@@ -2,13 +2,15 @@
 title: "Rouleaux de printemps"
 date: 2022-07-31T20:15:52+02:00
 commentpage: true
-tags: ['rouleaux de printemps','porc','poulet','boeuf','crevettes','tofu','salé','froid','mangue','salade','menthe','coriandre','carottes','choux','nouilles de riz','feuilles de riz','vinaigre de riz','sirop érable','piment','beurre de cacahuète','sauce soja','sucre de canné','citron vert']
+tags: ['rouleaux de printemps','porc','poulet','boeuf','crevettes','tofu','salé','froid','mangue','salade','menthe','coriandre','carottes','choux','nouilles de riz','feuilles de riz','vinaigre de riz','sirop érable','piment','beurre de cacahuète','sauce soja','sucre de canne','citron vert', 'recette', 'sans gluten']
 ---
 
 ![](/pictures/rouleaux_printemps.jpg)<br>
 *Plus qu'à se challenger sur le plus beau rouleau!*
 
-- **Temps de préparation** : 40 minutes (pas de cuisson nécessaire).
+- **Temps de préparation** : 40 minutes.
+- **Temps de cuisson** : pas de cuisson nécessaire, si la protéine est déjà cuite.
+- **Ustensiles** : Eventuellement une râpe à légumes et de grandes assiettes pour que chacun ait la place de faire ses rouleaux à partir de la feuille de riz.
 
 ---
 
