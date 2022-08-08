@@ -20,7 +20,8 @@ footer {
 
 .taglist {
     text-align: center ;
-    margin-top: 5em ;
+    margin-top: 3em ;
+    margin-bottom: 3em;
 }
 
 ::-webkit-scrollbar {
