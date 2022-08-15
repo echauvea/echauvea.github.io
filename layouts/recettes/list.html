@@ -3,7 +3,7 @@
 <article>
   {{ .Content -}}
   <ul id="article_list">
-    {{- range .Pages }}
+    {{- range sort .Pages "Title" }}
     <li data-tags="{{.Params.Tags}}"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end -}}
   </ul>

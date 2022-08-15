@@ -9,4 +9,4 @@ date: 2022-07-14T20:09:06+02:00
 - [CV](docs/CV.pdf)
 - [Github](https://github.com/echauvea)
 - [Récits de course](recits_courses)
-- [Blog de cuisines](recettes)
+- [Blog de cuisine](recettes)
