@@ -4,7 +4,7 @@
 # Author: Mike
 
 # absolute path to image folder
-FOLDER="/home/estelle/work/blog/echauveau_hugo/static/pictures"
+FOLDER="./"
 
 # max width
 WIDTH=540
