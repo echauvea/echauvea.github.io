@@ -10,3 +10,4 @@ date: 2022-07-14T20:09:06+02:00
 - [Github](https://github.com/echauvea)
 - [Récits de course](recits_courses)
 - [Blog de cuisine](recettes)
+- [Blog de cosmétique](cosmetiques)
