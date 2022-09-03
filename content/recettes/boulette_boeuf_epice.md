@@ -5,8 +5,8 @@ commentpage: true
 tags: ['recette', 'salé', 'simple', 'viande','boeuf','oignon','cumin','soja','boulette','épice','avoine']
 ---
 
-![boulettes](/pictures/boulettes_simplissimes.jpeg)<br>
-*Les boulettes accompagnées de légumes et d'une sauce à la tomate.*
+![boulettes](/pictures/boulettes_sauce_1.jpeg)<br>
+*Les boulettes préparées par ma maman et accompagnées d'une sauce à la tomate.*
 
 - **Temps de préparation** : 10 minutes.
 - **Temps de cuisson** : 12 minutes.
@@ -38,10 +38,10 @@ Ces petites boulettes toutes simples peuvent être préparées à l'avance puis 
 
 3. Former de jolies boulettes (à peine plus petites qu'un oeuf), et les disposer sur une grille couverte d'un papier sulfurisé.
 
+![boulettes](/pictures/boulettes.jpeg)<br>
+
 4. Enfourner pour 12 minutes, c'est prêt! 
 
 
-
-
-
+![boulettes](/pictures/boulettes_sauce_2.jpeg)<br>
 
