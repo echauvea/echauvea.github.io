@@ -6,6 +6,7 @@ tags: ['baume à lèvre', 'cosmétique', 'lavande', 'cire d abeille', 'écologiq
 ---
 
 ![baume à lèvre](/pictures/baume_1.jpeg)
+![baume à lèvre](/pictures/lavande.jpeg)
 ![baume à lèvre](/pictures/baume_2.jpeg)<br>
 *Ce baume est trés économique il me dure largement 2 mois en en mettant tous les jours.*
 
