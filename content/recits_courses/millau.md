@@ -2,6 +2,7 @@
 title: "Course Eiffage du Viaduc de Millau 2022"
 commentpage: true
 date: 2022-07-24T01:23:57+02:00
+tags: ['eiffage', 'millau', '2022', 'viaduc']
 ---
 
 Je me suis inscrite à la course du Viaduc de Millau sur un coup de tête, comme d'habitude. 23.7km, 450m de dénivelé, et en récompense à mi-parcours l'aller retour sur le viaduc qui offre un panorama époustouflant sur la vallée du Tarn.
