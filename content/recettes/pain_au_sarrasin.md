@@ -35,7 +35,7 @@ Ce pain maison est plein de saveur, mais sans gluten il ne gonfle pas beaucoup, 
 
 3. Mettre la pâte dans un moule à cake chemisé de papier sulfurisé. Le laisser la matinée dans un lieu plutôt chaud pour que la pâte prenne un peu de volume (très peu).
 
-4. Enfourner entre 45 minutes et une heure dans un four préchauffé à 180°C. Comme pour un gâteau, un couteau planté dedans doit ressortir sec. Allez hop, direction la recette de la <a href="pate_a_tartiner.html">pâte à tartiner protéinée</a> pour étaler sur ce pain tout chaud!
+4. Enfourner entre 45 minutes et une heure dans un four préchauffé à 180°C. Comme pour un gâteau, un couteau planté dedans doit ressortir sec. Allez hop, direction la recette de la <a href="/recettes/pate_a_tartiner">pâte à tartiner protéinée</a> pour étaler sur ce pain tout chaud!
 
 ![](/pictures/pain_6.jpg)<br>
 *Pour chemiser le moule je met une feuille de papier sulfurisé dedans.*
