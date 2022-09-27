@@ -10,10 +10,10 @@ tags: ['poulet', 'dinde', 'ananas', 'faitout', 'wok', 'Réunion', 'sucre de cann
 *La recette réalisés avec les ananas "Victoria" de l'île de la Réunion.*
 
 - **Temps de préparation** : 30 minutes.
-- **Temps de cuisson** : 30.
+- **Temps de cuisson** : 20 minutes.
 - **Ustensiles** : Un faitout ou un wok suffisament grand.
 
-J'ai créé cette recette lors de nos vacances à la réunion, inspirée par les délicieux petits ananas "Victoria" qui poussent merveilleusement bien sur les terres volcaniques de l'île, grâce à son climat tropical favorable. Je l'ai réalisée pour notre merveilleux hôte et amis François, je pense qu'elle a été validée et approuvée. C'est une recette sucrée salée très parfumée, épicée, un peu pimentée, et à la fois pleines de vitamines et minéraux notamment dans l'ananas (vitamine C, manganèse...), le poivron (blindé de vitamine C) et le poulet (vitamines du groupe B, phospore, sélénium...).
+J'ai créé cette recette lors de nos vacances à la réunion, inspirée par les délicieux petits ananas "Victoria" qui poussent merveilleusement bien sur les terres volcaniques de l'île, grâce à son climat tropical favorable. Je l'ai réalisée pour notre cher ami et hôte François, je pense qu'elle a été validée et approuvée. C'est une recette sucrée salée très parfumée, épicée, un peu pimentée, et à la fois pleine de vitamines et minéraux notamment dans l'ananas (vitamine C, manganèse...), le poivron (blindé de vitamine C) et le poulet (vitamines du groupe B, phospore, sélénium...).
 
 ## Recette
 
@@ -22,7 +22,7 @@ J'ai créé cette recette lors de nos vacances à la réunion, inspirée par les
 - 800g de filets de poulet (ou de dinde)
 - 2 cuillères à soupe de sucre de canne
 - 2 beaux poivrons
-- 2 petite ananas victoria
+- 2 petits ananas victoria
 - 2 oignons
 - 2 petits piments (plus ou moins fort suivant vos goût, pour ma part j'ai utilisé du "gros piment" qui est un piment doux de la Réunion)
 - 125g de nouilles de riz bien fines
