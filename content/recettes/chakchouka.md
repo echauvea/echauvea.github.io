@@ -1,5 +1,5 @@
 ---
-title: "Chakchouka"
+title: "Chakchouka végétarienne (plat à base de poivron et de tempeh)"
 date: 2022-07-23T14:36:46+02:00
 commentpage: true
 tags: ['recette', 'afrique', 'poivrons', 'piments', 'oignons', 'vegan', 'végétarien', 'tempeh', 'ail', 'petits pois', 'cannelle', 'persil', 'piment', 'crème végétale au soja', 'salé', 'tomate']
@@ -11,7 +11,7 @@ tags: ['recette', 'afrique', 'poivrons', 'piments', 'oignons', 'vegan', 'végét
 
 ---
 
-La chakchouka est un plat originaire d'Afrique du Nord, composé essentiellement de poivrons, piments, oignons auxquels on ajoute des oeufs en fin de cuisson. Ma version est très différente, et pourtant c'est de ce plat que je me suis inspirée. En effet, c'est une version végétarienne (au tempeh), j'y ajoute des petits pois pour mettre de la couleur, et de la crème végétale qui adoucit la tomate.
+La chakchouka est un plat originaire d'Afrique du Nord, composé essentiellement de poivrons, piments, oignons auxquels on ajoute des oeufs en fin de cuisson. Ma version est très différente, et pourtant c'est de ce plat dont je me suis inspirée. En effet, c'est une version végétarienne (au tempeh), j'y ajoute des petits pois pour mettre de la couleur, et de la crème végétale qui adoucit la tomate.
 
 ---
 

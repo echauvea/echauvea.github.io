@@ -16,16 +16,16 @@ tags: ['baume à lèvre', 'cosmétique', 'lavande', 'cire d abeille', 'écologiq
 Autrefois accro à une grande marque de baume à lèvre comportant certains ingrédients chimiques, j'ai trouvé une recette qui donne un baume à lèvre plus nourrissant, avec une odeur plus douce, et bien plus naturel. C'est incroyable, et c'est particulièrement grâce à nos amies les abeilles, elle ne cesseront de me surprendre.
 
 
-Dans la recette je donne des quantité approximatives en "cuillères à café" (cac.) bien remplies, il n'est pas nécessaire d'être très précis pour avoir un bon résultat.
+Dans la recette je donne des quantité approximatives en "cuillères à soupe" bien remplies, il n'est pas nécessaire d'être très précis pour avoir un bon résultat.
 
 ## Péparation du cosmétique
 
-### Ingrédients pour 2 baumes à lèvre:
+### Ingrédients pour 2 gros baumes à lèvre:
 
-- 6 cac. de beurre de karité
-- 6 cac. d'huile d'olive (on peut la remplacer par de l'huile de tournesol, auquel cas il n'est pas nécessaire d'ajouter la vitamine E, déjà présente dans cette dernière)
-- 3 cac. de cire d'abeille en paillettes
-- 1/2  cac. de vitamine E (sous forme d'huile, elle permet une meilleure conservation du baume)
+- 6 cuillères à soupe (cas.) de beurre de karité
+- 6 cas. d'huile d'olive (on peut la remplacer par de l'huile de tournesol, auquel cas il n'est pas nécessaire d'ajouter la vitamine E, déjà présente dans cette dernière)
+- 3 cas. de cire d'abeille en paillettes
+- 1/2  cas. de vitamine E (sous forme d'huile, elle permet une meilleure conservation du baume)
 - 15 gouttes d'huile essentiellle de lavande (celle que vous préférez car il en existe plusieurs variétés)
 
 ### Instructions
@@ -41,9 +41,11 @@ Dans la recette je donne des quantité approximatives en "cuillères à café" (
 
 3.  Quand le mélange est fondu, le verser dans chacune des tasses en proportion égale.
 
+
 **Note** : Pour le petit bâtonnet, il servira à tenir avec les doigts pour appliquer la baume à lèvre (comme une glace). Pour que le bâtonnet reste bien accroché au baume à lèvre, j'utilise des mini cuillères à miel (que je réutilise une fois le baume épuisé). Grâce aux rainures, la bâtonnet reste bien en place! 
 
-![Cuillère à miel](/pictures/baume_3.jpeg)<br>
+![Cuillère à miel](/pictures/baume_3.jpeg)
+![](/pictures/baume_fondu.jpeg)<br>
 *La petite cuillère à miel en bois, réutilisable après l'avoir bien nettoyée à l'eau très chaude.*
 
 5. Il faut donc attendre une ou deux minutes après avoir versé le mélange dans les tasses: la tasse, plus froide, va refroidir le fond de la préparation à son contact. Il s'agit alors de planter doucement le bâtonnet, sans aller jusqu'au bout, mais à 5mm du bas de la tasse environ. Normalement, la préparation s'est légèrement solidifié à cette endroit et le bâtonnet tient tout seul. Sinon on peut simplement maintenir le bâtonnet bien droit à l'aide d'une pince à linge posée horizontalement sur la tasse.
