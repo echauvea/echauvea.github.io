@@ -6,7 +6,8 @@ tags: ['recette', 'cabillaud','poisson','parmesan','sucré','salé','corn flakes
 ---
 
 ![](/pictures/cabillaud_crumble.jpg)<br>
-*Cabillaud réalisé par Cyril, un vrai chef!*
+![](/pictures/cabillaud_croute_bruno_cru.jpeg)<br>
+*Cabillaud réalisé par Cyril (première photo), et par mon Papa (deuxième photo, avant d'enfourner).*
 
 - **Temps de préparation** : 15 minutes.
 - **Temps de cuisson** : une dizaine de minutes.
@@ -41,6 +42,7 @@ Cette recette sublime tout poisson blanc, et pas seulement la cabillaud. La cro�
 5. Placer le poisson dans la partie supérieure du four (sous le grill) afin que la croûte dore bien. Sortir les dos de cabillaud lorsqu'ils sont cuits (en fonction de la taille des morceaux et du four, généralement cela prend une petite quinzaine de minutes). 
 
 
-
+![](/pictures/cabillaud_croute_bruno_cuit.jpeg)<br>
+*Miam miam cette croûte bien dorée, et le côté sucré-salé bien subtil... (Crédit photo @Bruno)*
 
 
