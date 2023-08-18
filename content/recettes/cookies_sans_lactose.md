@@ -18,8 +18,8 @@ Avec Cyril nous sommes fans de cookies, nous les aimons très "chewy" et surtout
 
 ### Ingrédients pour 20 cookies :
 
-- 120 g de sucre cassonade
-- 120 g de sucre blanc
+- 50g g de sucre Muscovado
+- 190 g de sucre blanc
 - 230 g de purée de macadamia
 - 1 œuf
 - 250 g de farine de type T45
