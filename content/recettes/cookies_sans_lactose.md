@@ -8,15 +8,15 @@ tags: ['cookies', 'beurre de macadamia', 'purée de macadamia', 'macadamia', 'sa
 ![](/pictures/cookies_2.jpg)<br>
 *Le petit plus: de vrais "chunks" de chocolat cassés à la main à partir d'une tablette. Tellement plus gourmand que les petites pépites toutes prêtes!*
 
-- **Temps de préparation** : 20 minutes.
+- **Temps de préparation** : 25 minutes.
 - **Temps de cuisson** : 2 fois 11 minutes.
 - **Ustensiles** : Rien de particulier.
 
-Avec Cyril nous sommes fans de cookies, nous les aimons très "chewy" et surtout pas secs. Cyril affectionne particulièrement la recette de Cyril Lignac que l'on peut trouver sur internet: je m'en suis inspirée, j'ai remplacé le beurre par de la purée de macadamia (on en trouve par exemple <a href="https://www.koro.fr/puree-de-macadamia-500-g">ici</a>). Cela donne une saveur terriblement gourmande, et je trouve que l'on garde la même texture parfaite de la recette d'origine. Pour moi ce sont les meilleurs, et en plus ils sont sans lactose (si l'on s'assure que le chocolat noir n'en contient pas!).
+Avec Cyril nous sommes fans de cookies, nous les aimons "chewy" c'est à dire bien moelleux. Cyril affectionne particulièrement la recette de Cyril Lignac que l'on peut trouver sur internet: je m'en suis inspirée, j'ai remplacé le beurre par de la purée de macadamia (on en trouve par exemple <a href="https://www.koro.fr/puree-de-macadamia-500-g">ici</a>). Cela donne une saveur terriblement gourmande, et je trouve que l'on garde la même texture parfaite de la recette d'origine. Pour moi ce sont les meilleurs, et en plus ils sont sans lactose si l'on s'assure que le chocolat noir n'en contient pas.
 
 ## Recette
 
-### Ingrédients pour 20 cookies :
+### Ingrédients pour 24 cookies :
 
 - 50g g de sucre Muscovado
 - 190 g de sucre blanc
@@ -24,7 +24,7 @@ Avec Cyril nous sommes fans de cookies, nous les aimons très "chewy" et surtout
 - 1 œuf
 - 250 g de farine de type T45
 - 6 g de levure chimique
-- 3 cuillères à soupe de lait végétal (j'ai utilisé du lait d'amande)
+- 45g de lait d'amande
 - 220 g de chocolat noir
 - 1 cuillère à café de sel 
 
@@ -32,19 +32,27 @@ Avec Cyril nous sommes fans de cookies, nous les aimons très "chewy" et surtout
 
 0. Préchauffer le four à 170°C.
 
-1. Casser les tablettes de chocolat en petits morceaux (on peut s'aider d'une planche à découper et d'un couteau). C'est long, mais qu'est-ce que c'est bon.
+1. Casser les tablettes de chocolat en petits morceaux (on peut s'aider d'une planche à découper et d'un couteau). Pour la taille des morceaux on peut s'inspirer de la photo ci-dessous:
 
-2. Mélanger les sucres, la farine et la levure. Ajouter ensuite le beurre de macadamia et mélanger grossièrement. 
+![](/pictures/pepites_cookies.jpeg)<br>
 
-3. Ajouter l'œuf, le lait végétal et cette fois bien homogénéiser. On peut faire cela avec les doigts.
+2. Mélanger les deux sucres, la farine et la levure. Ajouter ensuite le beurre de macadamia et mélanger grossièrement en essayant "d'écraser" un peu le muscuvado qui a tendance à former des paquets. 
 
-4. Ajouter le sel à la fin (pour qu'il entre en contact au dernier moment avec la levure), ainsi que les morceaux de chocolat.
+3. Ajouter l'œuf, le lait végétal et cette fois bien homogénéiser à l'aide d'une fourchette.
 
-5. La pâte n'est pas évidente à travailler car elle est friable. Faire des boules de la taille d'un petit œuf et les écraser un peu pour leur donner une forme de cookie épais (ils s'étalent peu à la cuisson). Les disposer sur des plaques de cuisson recouvertes de papier sulfurisé (j'ai fait deux plaques que j'ai faites cuire alternativement).
+4. Finalement, ajouter le sel ainsi que les morceaux de chocolat.
 
-6. Enfourner 11/12 minutes. Sortir du four et laisser bien refroidir sur la grille car ils sont fragiles. 
+5. Recouvrir une ou deux plaques de cuisson de papier sulfurisé. Pour ma part j'ai fait deux fournées de 12 cookies que j'ai faites cuire alternativement.
 
-7. Avant de les déguster je les met un peu au frais pour m'assurer que le chocolat a redurci, car je l'aime bien croquant. Mais chacun ses goûts ;-)
+5. La pâte n'est pas évidente à travailler: entre les doigts propres, faire des boules de la taille d'un petit œuf et les écraser un peu pour leur donner une forme de cookie épais à disposer sur la plaque en les espaçant légèrement. Voir vidéo ci-dessous. 
+
+{{% vid "/pictures/video_cookies.mp4" %}}
+On peut s'aider d'une petite cuillère pour prélever une quantité régulière de pâte du saladier.
+
+6. Enfourner 11/12 minutes. 
+7. Sortir du four et laisser bien refroidir sur la grille car ils sont fragiles. 
+
+8. Avant de les déguster je les met un peu au frais pour m'assurer que le chocolat a redurci, car je l'aime bien croquant. Mais chacun ses goûts ;-)
 
 
 ![](/pictures/cookies_1.jpg)<br>
