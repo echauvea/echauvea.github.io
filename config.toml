@@ -2,6 +2,9 @@ baseURL = 'https://echauve.github.io'
 languageCode = 'fr'
 title = 'Estelle Chauveau Homepage'
 
+# [taxonomies]
+# tag = "tags|"
+
 theme = "hugo-ttl"
 canonifyURLs = true
 disqusShortname = 'echauvea'
