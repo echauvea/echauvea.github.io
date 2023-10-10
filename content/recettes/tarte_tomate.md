@@ -2,7 +2,7 @@
 title: "Tarte rustique à la tomate confite, chèvre et menthe"
 date: 2023-09-24T03:00:35+02:00
 commentpage: true
-tags: ["salée", "pâte", "tarte", "rustique", "tomate cerise", "confite", "chèvre", "menthe", "caramel", "été", "appéritif", "fromage", "plat", "apéro", "farine complète", "huile d'olive"]
+tags: ["salée", "pâte", "tarte", "rustique", "tomate cerise", "confite", "chèvre", "menthe", "caramel", "été", "apéritif", "fromage", "plat", "apéro", "farine complète", "huile d'olive"]
 ---
 
 ![Tarte à la tomate cuite](/pictures/tarte_tomate_6.jpeg)<br>
@@ -15,7 +15,7 @@ Jour 2 : 40 minutes de préparation.
 - **Ustensiles** : Un mixeur plongeant; un rouleau à pâtisserie; du pap. sulfurisé.
 - **Difficulté** : Recette assez complexe avec le caramel de tomate et la pâte délicate à travailler.
 
-Cette recette est dans un esprit différent de la plupart des articles de mon blog, elle est un peu plus délicate et demande une certaine organisation puisqu'une première étape doit être réalisée la veille pour le lendemain: il s'agit du concentré de tomates au caramel 🤤. Par contre le résultat est délicieux, subtil et surprenant. C'est une tarte à faire à la belle saison, lorsque les tomates sont de qualité. Elle est divine servie en appéro à l'occasion d'une belle soirée d'été...
+Cette recette est dans un esprit différent de la plupart des articles de mon blog, elle est un peu plus délicate et demande une certaine organisation puisqu'une première étape doit être réalisée la veille pour le lendemain: il s'agit du concentré de tomates au caramel 🤤. Par contre le résultat est délicieux, subtil et surprenant. C'est une tarte à faire à la belle saison, lorsque les tomates sont de qualité. Elle est divine servie en apéro à l'occasion d'une belle soirée d'été...
 
 ## Recette
 
@@ -40,7 +40,7 @@ Pour la pâte rustique:
 - une pincée d'herbes de Provence
 
 Pour l'assemblage:
-- 350g de tomates colorées et variées: des jaunes, des vertes, des oranges, des tomate cerise...
+- 350g de tomates colorées et variées: des jaunes, des vertes, des oranges, des tomates cerise...
 - 60g de fromage de chèvre frais
 - une petite dizaine de feuilles de menthe fraîche
 - une pincée de sel, poivre
@@ -63,7 +63,7 @@ Concentré de tomates caramélisées à réaliser la veille.
 
 5. Ajouter la pincée de sel puis mixer finement au mixeur plongeant.
 
-6. Remettre sur feu très doux pendant environ 1h00, en remuant tous les 1/4 d'heure. La préparation va s'assombrir et prendre la consistance d'un concentré de tomate, donc plus épais qu'un coulis. Sa consistance permettra de ne pas "mouiller" pâte à tarte.
+6. Remettre sur feu très doux pendant environ 1h00, en remuant tous les 1/4 d'heure. La préparation va s'assombrir et prendre la consistance d'un concentré de tomate, donc plus épais qu'un coulis. Sa consistance permettra de ne pas "mouiller" la pâte à tarte.
 
 7. Couper le feu, laisser refroidir et réserver au frais. Cette préparation peut être faite en anticipation puis congelée. Il suffira alors de la sortir la veille et de laisser décongeler 24 heures au réfrigérateur.
 
@@ -91,9 +91,9 @@ L'assemblage final.
 0. Couper les tomates en tranches fines et les mettre à dégorger sur du papier absorbant. Cela évitera qu'elles mouillent la pâte et la ramollissent. On peut même un peu les presser afin de faire sortir un maximum d'eau.
 ![Tomates en processus de dégorgement](/pictures/tarte_tomate_2.jpeg)<br>
 
-1. Préparer une feuille de papier sulfurisée sur le plan de travail et y répartir une poignée de farine. On peut scotcher la feuille de papier sulfurisé au plan de travail : voir toutes les étapes en photo en fin de recette.
+1. Préparer une feuille de papier sulfurisée sur le plan de travail et y répartir une poignée de farine. On peut scotcher la feuille de papier sulfurisé au plan de travail : voir toutes les étapes en photos en fin de recette.
 
-2. Sortir la pâte du frigo et l'étaler sur le papier sulfurisé à l'aide du rouleau à pâtisserie. Si les bords se fissurent, on peut s'aider des de la tranche de la main pour les rapprocher et les recoller proprement. Cette étape n'est pas aisée.
+2. Sortir la pâte du frigo et l'étaler sur le papier sulfurisé à l'aide du rouleau à pâtisserie. Si les bords se fissurent, on peut s'aider de la tranche de la main pour les rapprocher et les recoller proprement. Cette étape n'est pas aisée.
 
 3. Répartir le coulis de tomate-caramel à l'aide d'une petite cuillère, en laissant la pâte nue à 2cm du bord.
 
@@ -101,7 +101,7 @@ L'assemblage final.
 
 5. Sur le coulis, disposer élégamment les tranches de tomates sur une seule couche.
 
-6. Replier délicatement la partie nue de la pâte sur la partie tomate afin de donner l'effet "rustique". Si la pâte se casse, na pas s'affoler et la consolider en la pinçant un peu avec les doigts.
+6. Replier délicatement la partie nue de la pâte sur la partie tomate afin de donner l'effet "rustique". Si la pâte se casse, ne pas s'affoler et la consolider en la pinçant un peu avec les doigts.
 
 7. Parsemer de sel et d'herbes de Provence.<br>
 
