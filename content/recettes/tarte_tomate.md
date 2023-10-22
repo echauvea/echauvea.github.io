@@ -34,13 +34,13 @@ Pour la pâte rustique:
 - 150g de farine classique + une càs. pour travailler la pâte
 - 110g de beurre en cubes à température ambiante
 - 1 œuf à température ambiante
-- 20g d'huile d'olive (deux bonnes càs.)
-- 6cL de lait végétal
+- 20g d'huile d'olive (2 bonnes càs.)
+- 6cL de lait végétal (3 càs.)
 - 1 càc de sel
 - une pincée d'herbes de Provence
 
 Pour l'assemblage:
-- 350g de tomates colorées et variées: des jaunes, des vertes, des oranges, des tomates cerise...
+- 300g de tomates colorées et variées: des jaunes, des vertes, des oranges, des tomates cerise...
 - 60g de fromage de chèvre frais
 - une petite dizaine de feuilles de menthe fraîche
 - une pincée de sel, poivre
@@ -75,15 +75,15 @@ Pâte rustique à réfrigérer une heure avant usage.
 
 2. Dans un grand saladier, tamiser les deux farines. Ajouter le sel et les herbes de Provence, mélanger.
 
-3. Dans un bol, fouetter ensemble l'œuf et le lait végétal.
+3. Dans un bol, fouetter ensemble l'œuf, le lait végétal et l'huile.
 
 4. Verser ce mélange liquide au centre du saladier de farines et mélanger grossièrement à l'aide d'une fourchette.
 
-5. Incorporer les dés de beurre, mélanger grossièrement avec la fourchette.
+5. Incorporer les dés de beurre, mélanger avec la fourchette.
 
-6. Ajouter l'huile d'olive, et finir de travailler rapidement la pâte avec les doigts, en s'aidant de la paume de la main pour l'écraser sur les bords du saladier.
+6. Finir de travailler la pâte avec les doigts, en s'aidant de la paume de la main pour l'écraser sur les bords du saladier.
 
-7. Mettre la pâte en boule, la fariner et l'envelopper dans un cellophane avant de la laisser reposer au moins une heure au réfrigérateur.<br>
+7. Former avec la pâte un disque épais et l'envelopper dans un cellophane avant de la laisser reposer au moins une heure au réfrigérateur.<br>
 <br>
 
 L'assemblage final.

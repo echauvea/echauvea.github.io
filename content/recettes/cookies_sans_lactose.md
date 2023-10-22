@@ -25,7 +25,7 @@ Avec Cyril nous sommes fans de cookies, nous les aimons "chewy" c'est à dire bi
 - 250 g de farine de type T45
 - 6 g de levure chimique
 - 45g de lait d'amande
-- 220 g de chocolat noir
+- 200 g de chocolat noir
 - 1 cuillère à café de sel 
 
 ### Instructions
