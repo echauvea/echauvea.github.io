@@ -8,13 +8,13 @@ tags: ['ramen','végétarien','bouillon','japonais','salé','oeufs','légumes','
 ![](/pictures/ramen.jpeg)<br>
 *Pour les journées pluvieuses (ou après une séance de sport dans le froid), rien de mieux qu'un bon plat de ramen fumant...*
 
-- **Temps de préparation** : 30 minutes.
+- **Temps de préparation** : 35 minutes.
 - **Temps de cuisson** : Compris dans le temps de préparation.
 - **Ustensiles** : Pas nécessaire mais très sympas d'avoir de grands bols à ramen pour le service!
 
 ---
 
-Pour moi, la réussite d'un plat de ramen réside dans l'assaisonnement du bouillon.
+Pour moi, la réussite d'un plat de ramen réside dans l'assaisonnement intense du bouillon: peu d'eau et beaucoup d'umami! J'attire l'attention sur le fait que pour cette recette je n'utilise pas de vrai pâtes de type 'ramen', mais des nouilles de riz, plus fines et donc qui cuisent bien plus vite. Quant à la sauce Sriracha, à vous de jauger si la quantité convient à vos papilles: si certains l'aiment 'chaud', d'autre préfèrent que ce soit très léger ;-)
 
 ---
 
@@ -35,17 +35,19 @@ Pour moi, la réussite d'un plat de ramen réside dans l'assaisonnement du bouil
 
 ### Instructions
 
-1. Dans une grande casserole, mettre environ 300cL d'eau à chauffer.
+1. Dans une grande casserole, mettre environ 35cL d'eau à bouillir.
 
 2. Peler la gousse d'ail et le gingembre et les écraser (ou hacher finement). Les mettre dans la casserole.
 
-3. Préparer les légumes (ainsi que l'oignon) en petits morceaux et les mettre dans la casserole.
+3. Préparer les légumes (ainsi que l'oignon) en petits morceaux, les mettre dans la casserole, baisser le feu et couvrir. Même si les légumes dépassent un peu de l'eau, ils cuiront avec la vapeur!
 
-4. Commencer à anticiper la finition. Mettre les bols de service au four à 70° pour les préchauffer. Ciseler la coriandre. Dans un petit récipient à part, prélever un peu d'eau chaude pour diluer le miso, y ajouter la sauce Sriracha et l'huile de sésame.
+4. Pendant que les légumes cuisent, préparer les oeufs mollets => <a href="https://echauvea.github.io/recettes/oeufs_mollets/">RECETTE ICI</a> <=.
 
-5. Lorsque les légumes sont sur le point d'être cuits (suivant votre goût, de mon côté je les aime un peu croquants), ajouter les nouilles de riz et suivre les indications de cuisson généralement fournies sur le sachet. Je laisse une minute de moins car elles finiessent leur cuisson une fois servies. En profiter pour ajouter l'assaisonement au miso.
+4. Ciseler la coriandre. Dans un petit récipient à part, prélever un peu d'eau chaude pour diluer le miso, y ajouter la sauce Sriracha et l'huile de sésame.
 
-6. Distribuer la préparation dans les bols chauds sortis du four, ajouter les oeufs mollets coupés en deux, puis parsemer de coriandre. La soirée s'annonce bien réchauffée!
+5. Lorsque les légumes sont sur le point d'être cuits (suivant votre goût, de mon côté je les aime un peu croquants), ajouter les nouilles de riz et suivre les indications de cuisson généralement fournies sur le sachet. Je laisse une minute de moins car elles finissent leur cuisson une fois servies. En profiter pour ajouter l'assaisonement au miso.
+
+6. Distribuer la préparation dans les bols à ramen, ajouter les oeufs mollets coupés en deux, puis parsemer de coriandre. La soirée s'annonce bien réchauffée!
 
 
 
