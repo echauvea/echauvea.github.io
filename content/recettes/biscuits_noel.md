@@ -6,7 +6,7 @@ tags: ['dessert', 'sucré', 'sablé', 'biscuit', 'goûter', 'Noël', 'oeuf', 'mi
 ---
 
 ![sables_2](/pictures/sables_2.jpg)<br>
-*Il ne manque qu'on bon thé bien chaud pour les accompagner!*
+*Il ne manque qu'un bon thé bien chaud pour les accompagner!*
 
 - **Temps de préparation** : 15 minutes.
 - **Temps de cuisson** : 13 minutes.
