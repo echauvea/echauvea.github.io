@@ -5,57 +5,62 @@ commentpage: true
 tags: ['bûche', 'roulée', 'pistache', 'pâte de pistache', 'beurre de pistache', 'Noël', "sucré", 'dessert', 'beurre', 'génoise', 'sirop', 'crème au beurre', 'vanille', 'sucre', 'fête', 'pâtisserie']
 ---
 
-![TODO_nom_image](/pictures/buche.jpeg)<br>
-*Image générée par DALL-E.*
+![buche à la cacahuète](/pictures/buche_2.jpg)
+![buche à la cacahuète](/pictures/buche_3.jpg)<br>
+*Variante à la cacahuète!*
 
 - **Temps de préparation** : 30 minutes.
 - **Temps de cuisson** : 20 minutes.
-- **Ustensiles** : torchon, plaque de cuisson, papier sulfurisé, pinceau de cuisine.
+- **Ustensiles** : plaque de cuisson, papier sulfurisé, une maryse.
 
-Une recette de bûche plutôt simple mais tout de même originale avec cette saveur de pistache associée à la vanille: c'est très subtile, de quoi épater vos convives. L'astuce consiste à faire une génoise assez fine qui se roulera plus facilement, et rendra le dessert plus gourmand. Mais attention l'assemblage est toujours une étape délicate et le rendu final n'est pas toujours comme espéré. 
+Une recette de bûche plutôt simple mais tout de même originale avec cette saveur de pistache associée à la vanille: c'est très subtile, de quoi épater vos convives. Quant au biscuit roulé, il est d'un moelleux inégalé... Il est en fait inspiré des biscuits roulés japonais!
 
-Sinon je trouve rigolo de mettre quelques petites décorations sur la bûche, comestibles ou non!
+Selon moi, la difficulté  de cette recette réside dans le "roulage" de la bûche: un geste à maîtriser. Les astuces sont de bien s'aider du papier sulfurisé, et de travailler le bisvuit lorsqu'il est encore tiède et pas complètement refroidi.
+
+Et comme on le voit sur les photos, il est possible de faire de délicieuses variantes en ramplaçant la purée de pistache par du beurre de cacahuète grillée ou de la purée de noisette. C'est tout aussi délicieux, après cela dépend des goûts! Par exemple j'ai accompagné ma variante cacahuète d'une sauce au chocolat, on retrouve alors un peu les saveurs du Snickers 😝
 
 ## Recette
 
 ### Ingrédients pour une belle bûche (6 personnes) :
 
-Pour la génoise
-
+Pour le biscuit
+- 50mL de lait entier 
+- 40g d'huile végétale (une huile neutre type colza ou alors de l'huile d'olive pour les plus audacieux!)
+- une cuillère à soupe d'arôme naturel de vanille liquide
+- une pincée de sel
+- 50g de sucre (25g+25g)
+- 65g de farine
 - 4 œufs
-- 120 g de sucre
-- 120 g de farine
 
 Pour la crème au beurre à la pistache
 
-- 200 g de beurre mou
-- 100 g de sucre glace
-- 2 cuillères à soupe de purée de pistache
-
-Pour le sirop
-
-- 100 g de sucre
-- 100 ml d'eau
-- 1 gousse de vanille
+- 160g de beurre mou
+- 70 g de sucre glace
+- 65g de purée de pistache (ou d'un autre oléagineux pour les variantes)
+- 2 bonnes pincées de sel
 
 ### Instructions
 
-Préparation de la génoise
+Préparation du biscuit moelleux
 
 1. Préchauffer votre four à 180°C (thermostat 6).
 
+2. Mélanger au fouet le lait, l'huile et l'arôme de vanille. Le mélange va légèrement s'éclaircir.
 
-2. Mettre le sucre et les oeufs dans un grand saladier (le volume va tripler) posé dans un bain marie.
+3. Ajouter le sel, la moitié du sucre et la farine et mélanger au fouet.
 
-3. A l'aide d'un fouet électrique, battre le mélange pour le transformer en une mousse très claire. Cela prends quelques minutes.
+4. Séparer les blanc des jaunes et incorporer les jaunes à la préparation précédente, toujours à l'aide du fouet.
 
-4. Ôter du feu pour incorporez délicatement la farine tamisée.
+5. Battre les blancs en neige, en incorporant progressivement la moitié de sucre restant. Les battre au moins 4/5 minutes et augmenter la vitesse du batteur jusqu’à ce que les blancs soient bien fermes et que des pics se forment lorsque l’on soulève le fouet.
 
-6. A l'aide d'un ustensile plat (maryse, grand couteau), étaler cette pâte sur une plaque recouverte de papier sulfurisé. Anticiper la forme que vous souhaitez donner à votre bûche. Pour l'épaisseur à peine plus d'un centimètre est suffisant.
+6. Incorporer en 4 fois les blancs d'œufs battus à l'appareil du début de recette. Réaliser cela délicatement à l'aide de la maryse.
 
-7. Enfourner pour une vingtaine de minutes: arrêter la cuisson dés que la génoise dore légèrement sur les côtés.
+7. A l'aide d'un ustensile plat (un grand couteau par exemple), étaler cette pâte sur une plaque recouverte de papier sulfurisé préalablement graissé. Anticiper la forme que vous souhaitez donner à votre bûche. Pour l'épaisseur à peine plus d'un centimètre est suffisant.
 
-8. À la sortie du four, enroulez la génoise dans un torchon humide et laissez refroidir.
+8. Enfourner pour une vingtaine de minutes: arrêter la cuisson dés que le biscuit "rebondit" bien au toucher. Pendant la cuisson, préparer la crème au beurre. Cela permettra de rouler le biscuit lorsqu'il est encore tiède, ce qui lui évitera de se casser.
+
+9. À la sortie du four, retourner le biscuit sur un papier sulfurisé préalablement saupoudré de sucre glace, cela lui évitera de coller.
+
 <br>
 <br>
 
@@ -63,27 +68,15 @@ Préparation de la crème au beurre à la pistache
 
 1. Battre le beurre mou avec le sucre glace jusqu'à obtenir une texture crémeuse.
 
-2. Incorporer la purée de pistache. On peut également y mettre du colorant vert!
-<br>
-<br>
-
-Préparation du sirop
-
-1. Faire chauffer l'eau, le sucre et la gousse de vanille fendue en deux jusqu'à ébullition.
-
-2. Laisser refroidir.
+2. Incorporer la purée de pistache et le sel. On peut également y mettre du colorant vert!
 <br>
 <br>
 
 Assemblage
 
-1. Dérouler la génoise refroidie.
+1. Étaler sur le biscuit une fine couche de crème au beurre à la pistache.
 
-2. À l'aide d'un pinceau, l'imbiber avec le sirop à la vanille.
+2. Rouler délicatement le biscuit en s'aidant du papier sulfurisé que l'on décolle au fur et à mesure, tout en veillant à le laisser à la fin du roulage sur tout le tour de la buche. À partir de là, effectuer à l'aide d'une plaque le serrage du biscuit comme cela est montré sur cette <a href="https://www.youtube.com/watch?v=HLVlt0Uk70E">vidéo </a> 
 
-3. Étaler une couche de crème au beurre à la pistache.
-
-4. Roulez délicatement la génoise, puis la recouvrir de crème au beurre.
-
-5. Laissez reposer au réfrigérateur pendant au moins 2 heures avant de servir.
+3. Laisser reposer au moins 2 heures au réfrigérateur, dans le papier sulfurisé. Au delà, la crème au beurre aura durci, il est alors possible d'enlever le papier sulfurisé et de découper les bords de la bûche. On peut la décorer avec du sucre glace, du cacao, un glaçage... Ou la laisser telle quelle.
 
