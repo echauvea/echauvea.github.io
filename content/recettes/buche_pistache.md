@@ -61,7 +61,7 @@ Préparation du biscuit moelleux
 
 9. Enfourner pour une quizaine de minutes: arrêter la cuisson dés que le biscuit "rebondit" bien au toucher et avant qu'il dore. Pendant la cuisson, préparer la crème au beurre. Cela permettra de rouler le biscuit lorsqu'il est encore tiède afin de ne pas le casser.
 
-10. À la sortie du four, retourner le biscuit sur un papier sulfurisé préalablement saupoudré de sucre glace, cela lui évitera de coller.
+10. À la sortie du four, laisser reposer 3 minutes puis retourner le biscuit sur un papier sulfurisé préalablement saupoudré de sucre glace, cela lui évitera de coller.
 
 <br>
 <br>
