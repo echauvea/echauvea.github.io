@@ -10,8 +10,8 @@ tags: ['bûche', 'roulée', 'pistache', 'pâte de pistache', 'beurre de pistache
 *Variante à la cacahuète!*
 
 - **Temps de préparation** : 30 minutes.
-- **Temps de cuisson** : 20 minutes.
-- **Ustensiles** : plaque de cuisson, papier sulfurisé, une maryse.
+- **Temps de cuisson** : 15 minutes.
+- **Ustensiles** : plaque de cuisson, papier sulfurisé, un fouet et une maryse.
 
 Une recette de bûche plutôt simple mais tout de même originale avec cette saveur de pistache associée à la vanille: c'est très subtile, de quoi épater vos convives. Quant au biscuit roulé, il est d'un moelleux inégalé... Il est en fait inspiré des biscuits roulés japonais!
 
@@ -45,21 +45,23 @@ Préparation du biscuit moelleux
 
 1. Préchauffer votre four à 180°C (thermostat 6).
 
-2. Mélanger au fouet le lait, l'huile et l'arôme de vanille. Le mélange va légèrement s'éclaircir.
+2. Mélanger au fouet le lait, l'huile et l'arôme de vanille.
 
-3. Ajouter le sel, la moitié du sucre et la farine et mélanger au fouet.
+3. Ajouter le sel, la moitié du sucre (25g) et la farine et mélanger au fouet.
 
 4. Séparer les blanc des jaunes et incorporer les jaunes à la préparation précédente, toujours à l'aide du fouet.
 
-5. Battre les blancs en neige, en incorporant progressivement la moitié de sucre restant. Les battre au moins 4/5 minutes et augmenter la vitesse du batteur jusqu’à ce que les blancs soient bien fermes et que des pics se forment lorsque l’on soulève le fouet.
+5. Battre les blancs en neige, en incorporant progressivement la moitié de sucre restant (25g). Les battre au moins 2/3 minutes et augmenter la vitesse du batteur jusqu’à ce que les blancs soient bien fermes et que des pics se forment lorsque l’on soulève le fouet à l'arrêt.
 
-6. Incorporer en 4 fois les blancs d'œufs battus à l'appareil du début de recette. Réaliser cela délicatement à l'aide de la maryse.
+6. Incorporer en 4 (voire 5) fois les blancs d'œufs battus à l'appareil du début de recette. Réaliser cela délicatement à l'aide de la maryse.
 
-7. A l'aide d'un ustensile plat (un grand couteau par exemple), étaler cette pâte sur une plaque recouverte de papier sulfurisé préalablement graissé. Anticiper la forme que vous souhaitez donner à votre bûche. Pour l'épaisseur à peine plus d'un centimètre est suffisant.
+7. Graisser (à l'huile végétale) une feuille de papier sulfurisé et la déposer sur une plaque allant au four.
 
-8. Enfourner pour une vingtaine de minutes: arrêter la cuisson dés que le biscuit "rebondit" bien au toucher. Pendant la cuisson, préparer la crème au beurre. Cela permettra de rouler le biscuit lorsqu'il est encore tiède, ce qui lui évitera de se casser.
+8. A l'aide d'un ustensile plat (un grand couteau par exemple), étaler cette pâte sur une plaque recouverte de papier sulfurisé préalablement graissé. Anticiper la forme que vous souhaitez donner à votre bûche, en insistant un peu sur les angles pour éviter de devoir trop couper le biscuit ensuite. Pour l'épaisseur à peine plus d'un centimètre est suffisant.
 
-9. À la sortie du four, retourner le biscuit sur un papier sulfurisé préalablement saupoudré de sucre glace, cela lui évitera de coller.
+9. Enfourner pour une quizaine de minutes: arrêter la cuisson dés que le biscuit "rebondit" bien au toucher et avant qu'il dore. Pendant la cuisson, préparer la crème au beurre. Cela permettra de rouler le biscuit lorsqu'il est encore tiède afin de ne pas le casser.
+
+10. À la sortie du four, retourner le biscuit sur un papier sulfurisé préalablement saupoudré de sucre glace, cela lui évitera de coller.
 
 <br>
 <br>
@@ -74,9 +76,9 @@ Préparation de la crème au beurre à la pistache
 
 Assemblage
 
-1. Étaler sur le biscuit une fine couche de crème au beurre à la pistache.
+1. Étaler sur le biscuit retourné et encore tiède une fine couche de crème au beurre à la pistache.
 
 2. Rouler délicatement le biscuit en s'aidant du papier sulfurisé que l'on décolle au fur et à mesure, tout en veillant à le laisser à la fin du roulage sur tout le tour de la buche. À partir de là, effectuer à l'aide d'une plaque le serrage du biscuit comme cela est montré sur cette <a href="https://www.youtube.com/watch?v=HLVlt0Uk70E">vidéo </a> 
 
-3. Laisser reposer au moins 2 heures au réfrigérateur, dans le papier sulfurisé. Au delà, la crème au beurre aura durci, il est alors possible d'enlever le papier sulfurisé et de découper les bords de la bûche. On peut la décorer avec du sucre glace, du cacao, un glaçage... Ou la laisser telle quelle.
+3. Laisser reposer au moins 2 heures au réfrigérateur, dans le papier sulfurisé. Au delà, la crème au beurre aura durci, il est alors possible d'enlever le papier sulfurisé et de découper les bords de la bûche. On peut la décorer avec du sucre glace, du cacao, un glaçage... Ou la laisser telle quelle. Cette bûche supporte également très bien la congélation (dans du film étirable), ce qui permet de faire une découpe très propre des deux bouts (lorsqu'elle est encore congelée).
 
