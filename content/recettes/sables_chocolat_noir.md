@@ -20,7 +20,7 @@ Pour la recette, je propose d'utiliser un beurre d'oléagineux pour compléter l
 Pour le jaune d'oeuf, si vous n'en avez qu'un petit, alors n'hésitez pas à compléter avec un tout petit peu de miel afin que la pâte sois travaillable et ne s'effrite pas trop (ajout possible en fin d'étape 2).
 
 J'ai pris le partie de faire peu de sablés, mais ainsi ils sont gros et très gourmands, j'adore ça. Si vous les préférez plus petit veillez à diminuer le temps de cuisson. En effet, ils doivent rester clairs à la cuisson, s'ils dorent alors il seront trop cuits et un peu secs.
-Ensuite, il y a deux tems : la team 🐷 qui va les déguster juste après cuisson, encore tout mous et le chocolat fondu. Et la team 🤓 qui attendra même le lendemain, ainsi les saveurs de la pâte ont le temps de bien se mélanger (vanille, cassonade, sel, oléagineux..), et surtout... Les pepites de dhcolats sont bien croquantes, MIAM!
+Ensuite, il y a deux tems : la team 🐷 qui va les déguster juste après cuisson, encore tout mous et le chocolat fondu. Et la team 🤓 qui attendra même le lendemain, ainsi les saveurs de la pâte ont le temps de bien se mélanger (vanille, cassonade, sel, oléagineux..), et surtout... les pépites de chocolat sont bien croquantes, MIAM!
 
 ## Recette
 
