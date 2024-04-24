@@ -13,14 +13,14 @@ tags: ['sablés', 'chocolat', 'noir', 'fleur de sel', 'sel', 'sucré', 'dessert'
 - **Temps de cuisson** : 20.
 - **Ustensiles** : plaque pour le four.
 
-Ils sont sablés et fondent dans la bouche, l'association chocolat noir et fleur des sel est incroyable. J'adore leur aspect, bien épais. Un peu comme des <a href="https://echauvea.github.io/recettes/cookies_sans_lactose/">cookies</a>, mais pas chewy pour autant. 
+Ils sont sablés et fondent dans la bouche, l'association chocolat noir et fleur de sel est incroyable. J'adore leur aspect, bien épais. Un peu comme des <a href="https://echauvea.github.io/recettes/cookies_sans_lactose/">cookies</a>, mais pas chewy pour autant. 
 
 Pour la recette, je propose d'utiliser un beurre d'oléagineux pour compléter le beurre standard. On peut utiliser du beurre de cacahuète, de la purée d'amande etc. du moment que c'est 100% du fruit à coque (sans sucre ajouté par exemple). J'ai utilisé du beurre de chanvre, il me fascine avec sa couleur d'un vert profond. Ca ne change pas fondamentalement le goût mais cela donne une texture un peu plus fondante après cuisson. 
 
-Pour le jaune d'oeuf, si vous n'en avez qu'un petit, alors n'hésitez pas à compléter avec un tout petit peu de miel afin que la pâte sois travaillable et ne s'effrite pas trop (ajout possible en fin d'étape 2).
+Pour le jaune d'oeuf, si vous n'en avez qu'un petit, alors n'hésitez pas à compléter avec du miel afin que la pâte soit travaillable et ne s'effrite pas trop (ajout possible en fin d'étape 2).
 
-J'ai pris le partie de faire peu de sablés, mais ainsi ils sont gros et très gourmands, j'adore ça. Si vous les préférez plus petit veillez à diminuer le temps de cuisson. En effet, ils doivent rester clairs à la cuisson, s'ils dorent alors il seront trop cuits et un peu secs.
-Ensuite, il y a deux tems : la team 🐷 qui va les déguster juste après cuisson, encore tout mous et le chocolat fondu. Et la team 🤓 qui attendra même le lendemain, ainsi les saveurs de la pâte ont le temps de bien se mélanger (vanille, cassonade, sel, oléagineux..), et surtout... les pépites de chocolat sont bien croquantes, MIAM!
+J'ai pris le partie de faire peu de sablés, mais ainsi ils sont gros et très gourmands, j'adore ça. Si vous les préférez plus petits veillez à diminuer le temps de cuisson. En effet, ils doivent rester clairs à la cuisson, s'ils dorent alors il seront trop cuits et un peu secs.
+Ensuite, il y a deux teams : la team 🐷 qui va les déguster juste après cuisson, encore tout mous et le chocolat fondu. Et la team 🤓 qui attendra même le lendemain, ainsi les saveurs de la pâte ont le temps de bien se mélanger (vanille, cassonade, sel, oléagineux..), et surtout... les pépites de chocolat sont bien croquantes, MIAM!
 
 ## Recette
 
@@ -37,7 +37,7 @@ Ensuite, il y a deux tems : la team 🐷 qui va les déguster juste après cuiss
 
 ### Instructions
 
-1. Mélanger dans un grand bol les deux beures, les deux sucre, le jaune d'œuf, le miel et l'arôme de vanille. Utiliser une grande cuillère pour écraser la préparation contre les rebords du bol afin d'obtenir une texture homogène.
+1. Mélanger dans un grand bol les deux beurres, les deux sucres, le jaune d'œuf, le miel et l'arôme de vanille. Utiliser une grande cuillère pour écraser la préparation contre les rebords du bol afin d'obtenir une texture homogène.
 
 2. Ajouter la farine et la petite cuillère à café de fleur de sel. Mélanger délicatement avec une fourchette ou les mains jusqu'à ce que tout soit juste combiné, en évitant de trop travailler la pâte.
 
