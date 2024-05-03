@@ -51,6 +51,8 @@ Ensuite, il y a deux teams : la team 🐷 qui va les déguster juste après cuis
 
 5. Avec les mains, façonner un boudin d'à peine 10cm de long. L'envelopper dans du papier cellophane et le placer au congélateur pendant 40 minutes. Pour qu'il soit parfaitement façonné, on peut le sortir au bout de 20 minutes, le faire rouler pour l'arrondir, et tasser les extrémités sur le plan de travail.
 
+![](/pictures/sables_2.jpeg)<br>
+
 6. Pendant ce temps, préchauffer le four à 170°C et préparer un plaque de cuisson couverte d'un papier sulfurisé.
 
 7. Sortir le boudin du congélateur et le découper en environ 6 tronçons.
