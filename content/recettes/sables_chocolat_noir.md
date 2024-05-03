@@ -9,8 +9,8 @@ tags: ['sablés', 'chocolat', 'noir', 'fleur de sel', 'sel', 'sucré', 'dessert'
 *Sablé et fondant en bouche en même temps, une bonne alternative pour changer du  <a href="https://echauvea.github.io/recettes/cookies_sans_lactose/">cookie</a>!*
 
 - **Temps de préparation** : 25 minutes.
-- **Temps de repos** : 30 minutes.
-- **Temps de cuisson** : 20.
+- **Temps de repos** : 40 minutes.
+- **Temps de cuisson** : 15/20 min.
 - **Ustensiles** : plaque pour le four.
 
 Ils sont sablés et fondent dans la bouche, l'association chocolat noir et fleur de sel est incroyable. J'adore leur aspect, bien épais. Un peu comme des <a href="https://echauvea.github.io/recettes/cookies_sans_lactose/">cookies</a>, mais pas chewy pour autant. 
@@ -24,12 +24,12 @@ Ensuite, il y a deux teams : la team 🐷 qui va les déguster juste après cuis
 
 ## Recette
 
-### Ingrédients pour 6 gros cookies bien gourmands:
+### Ingrédients pour 6 gros sablés bien gourmands:
 
 - 100g de beurre (75g de beurre classique + 25g de beurre oléagineux)
 - 100g de sucre (75g de sucre glace + 25g de cassonade)
-- 1  gros jaune d'œuf
-- 1 bonne cuillère à soupe de miel (environ 20g)
+- 2 jaunes d'œuf
+- 1 cuillère à soupe rase de miel (à peine 20g)
 - 1 cuillère à café d'arôme naturel de vanille liquide
 - 150g de farine
 - 1 petite cuillère à café de fleur de sel
@@ -37,27 +37,32 @@ Ensuite, il y a deux teams : la team 🐷 qui va les déguster juste après cuis
 
 ### Instructions
 
-1. Mélanger dans un grand bol les deux beurres, les deux sucres, le jaune d'œuf, le miel et l'arôme de vanille. Utiliser une grande cuillère pour écraser la préparation contre les rebords du bol afin d'obtenir une texture homogène.
+![](/pictures/sables_10.jpeg)
+![](/pictures/sables_9.jpeg)
+![](/pictures/sables_8.jpeg)<br>
 
-2. Ajouter la farine et la petite cuillère à café de fleur de sel. Mélanger délicatement avec une fourchette ou les mains jusqu'à ce que tout soit juste combiné, en évitant de trop travailler la pâte.
+1. Dans un grand bol, mélanger vigoureusement les deux beurres et les deux sucres. Utiliser une grande cuillère pour écraser la préparation contre les rebords du bol afin d'obtenir une texture homogène.
 
-3. Intégrer les pépites de chocolat, en veillant à une répartition uniforme.
+2. Incorporer le jaune d'œuf, le miel et l'arôme de vanille. 
 
-4. Former un boudin avec la pâte et le placer au congélateur pendant 30 minutes.
+3. Ajouter la farine et la petite cuillère à café de fleur de sel. Mélanger délicatement en "coupant" la pâte, jusqu'à ce que tout soit juste combiné, en évitant de trop travailler la pâte.
 
-![](/pictures/sables_2.jpeg)<br>
+4. Intégrer les pépites de chocolat, en veillant à une répartition uniforme.
 
-5. Préchauffer le four à 170°C pendant que la pâte est au congélateur.
+5. Avec les mains, façonner un boudin d'à peine 10cm de long. L'envelopper dans du papier cellophane et le placer au congélateur pendant 40 minutes. Pour qu'il soit parfaitement façonné, on peut le sortir au bout de 20 minutes, le faire rouler pour l'arrondir, et tasser les extrémités sur le plan de travail.
 
-6. Sortir le boudin du congélateur et le découper en environ 6 tronçons.
+6. Pendant ce temps, préchauffer le four à 170°C et préparer un plaque de cuisson couverte d'un papier sulfurisé.
 
-7. Disposer les sablés tronçonnés sur une plaque de cuisson recouverte de papier sulfurisé, en laissant un espace suffisant entre eux.
+7. Sortir le boudin du congélateur et le découper en environ 6 tronçons.
 
-![](/pictures/sables_3.jpeg)<br>
+8. Disposer les sablés tronçonnés sur la plaque de cuisson en laissant un espace suffisant entre eux.
 
-8. Cuire au four pendant 20 minutes.
+![](/pictures/sables_7.jpeg)
+![](/pictures/sables_5.jpeg)<br>
 
-9. Laisser refroidir sur une grille avant de servir.
+9. Cuire au four pendant 15/20 minutes (fonction du nombre de tronçons et de votre four). Pour éviter de trop ciure, il faut s'arrêter dés que le premier sablé commence à colorer très légèrement!
+
+10. Déaplcer immédiatement les sablés sur une grille avant de servir.
 
 ![](/pictures/sables_1.jpeg)<br>
 
