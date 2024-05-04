@@ -62,9 +62,9 @@ Ensuite, il y a deux teams : la team 🐷 qui va les déguster juste après cuis
 ![](/pictures/sables_7.jpeg)
 ![](/pictures/sables_5.jpeg)<br>
 
-9. Cuire au four pendant 15/20 minutes (fonction du nombre de tronçons et de votre four). Pour éviter de trop ciure, il faut s'arrêter dés que le premier sablé commence à colorer très légèrement!
+9. Cuire au four pendant 15/20 minutes (fonction du nombre de tronçons et de votre four). Pour éviter de trop cuire, il faut s'arrêter dés que le premier sablé commence à colorer très légèrement!
 
-10. Déaplcer immédiatement les sablés sur une grille avant de servir.
+10. Sortir du four et débarrasser immédiatement la plaque de cuisson en faisant glisser le papier sulfurisé sur le plan de travail ou sur une grille pour laisser les gâteaux refroidir.
 
 ![](/pictures/sables_1.jpeg)<br>
 
