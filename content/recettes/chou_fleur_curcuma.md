@@ -8,13 +8,13 @@ tags: ['curcuma','chou fleur','oignon','tempeh','huile de colza','végétarien',
 ![](/pictures/chou_fleur_1.jpg)<br>
 *La belle couleur vive du curcuma!*
 
-- **Temps de préparation** : 15 minutes.
-- **Temps de cuisson** : En parallèle de la préparation, donc 15 minutes tout compris!
+- **Temps de préparation** : 25 minutes.
+- **Temps de cuisson** : En parallèle de la préparation, donc 25 minutes tout compris!
 - **Ustensiles** : Dans l'idéal un cuit vapeur, mais ce n'est pas nécessaire.
 
 ---
 
-Pour cette recette, je me suis inspirée de la cuisine de mon papa. Notons que l'association poivre, curcuma et huile est excellente pour les articulations.
+Je trouve cette recette très "yogi" avec ses ingrédients simples et sains (l'association poivre, curcuma et huile est excellente pour les articulations!). Pour ce qui est du tempeh, on aime ou on n'aime pas, mais il faut tester pour savoir! Bonne découverte.
 
 ---
 
@@ -31,7 +31,7 @@ Pour cette recette, je me suis inspirée de la cuisine de mon papa. Notons que l
 
 ### Instructions
 
-1. Découper le chou fleur en petits bouquets et les oignons en fines lamelles, et les cuire à vore goût (par exemple 7 minutes à la vapeur douce pour des légumes un peu croquants).
+1. Découper le chou fleur en petits bouquets et les oignons en fines lamelles, et les cuire à votre goût (par exemple 7 minutes à la vapeur douce pour des légumes un peu croquants).
 2. Pendant ce temps découper le tempeh en cubes, et l'ajouter en fin de cuisson juste pour le réchauffer.
 3. Mélanger alors les légumes bien chauds avec les épices et l'huile et servir immédiatement.
 
