@@ -2,7 +2,7 @@
 title: "Curry de champignons au lait de coco"
 date: 2022-07-26T14:40:24+02:00
 commentpage: true
-tags: ['curry','champignons','lait de coco','coco','oignons','lentilles corails','persil','cannelle','gingembre','riz','végétarien','vegan', 'recette']
+tags: ['curry','champignons','lait de coco','coco','oignons','lentilles corails','persil','cannelle','gingembre','riz','végétarien','vegan', 'recette', "végétalien", "légumes"]
 ---
 
 - **Temps de préparation** : 15 minutes.
@@ -21,7 +21,7 @@ tags: ['curry','champignons','lait de coco','coco','oignons','lentilles corails'
 - 1 petite botte de persil frais
 - 1 bonne cuillère à soupe de cannelle
 - 1 petit morceau de gingembre rapé
-- 1 cube de bouillon (de boeuf par exemple)
+- 1 cube de bouillon (de boeuf par exemple, ou de légumes pour un plat végétarien)
 - sel, poivre, huile d'olive.
 - du riz cuit pour l'accompagnement
 

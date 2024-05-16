@@ -2,7 +2,7 @@
 title: "Brownie fondant au chocolat noir et beurre de coco"
 date: 2023-11-09T15:12:28+01:00
 commentpage: true
-tags: ['brownie', 'fondant', 'sans gluten', 'sans lactose', 'chocolat noir', 'beurre de coco', 'huile de coco', 'amande', "poudre d'amande", 'dessert', 'sucré', 'goûter', 'gâteau', 'pépites de chocolat']
+tags: ['brownie', 'fondant', 'sans gluten', 'sans lactose', 'chocolat noir', 'beurre de coco', 'huile de coco', 'amande', "poudre d'amande", 'dessert', 'sucré', 'goûter', 'gâteau', 'pépites de chocolat', "végétarien"]
 ---
 
 ![brownie fondant](/pictures/brownie_coco.jpg)<br>

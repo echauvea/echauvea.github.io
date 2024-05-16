@@ -2,7 +2,7 @@
 title: "Fondant châtaigne coco"
 date: 2022-10-29T14:42:48+02:00
 commentpage: true
-tags: ['fondant', 'châtaigne', 'sucré', 'dessert', 'gâteau', 'coco', 'noix de coco', 'beurre de coco', 'cacao', 'marron', 'crème de marron', 'crème de châtaigne']
+tags: ['fondant', 'châtaigne', 'sucré', 'dessert', 'gâteau', 'coco', 'noix de coco', 'beurre de coco', 'cacao', 'marron', 'crème de marron', 'crème de châtaigne', "végétarien"]
 ---
 
 ![Fondant refroidi](/pictures/fondant_chataigne_5_big.jpg)<br>

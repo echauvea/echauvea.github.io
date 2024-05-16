@@ -2,7 +2,7 @@
 title: "Chakchouka végétarienne (plat à base de poivron et de tempeh)"
 date: 2022-07-23T14:36:46+02:00
 commentpage: true
-tags: ['recette', 'afrique', 'poivrons', 'piments', 'oignons', 'vegan', 'végétarien', 'tempeh', 'ail', 'petits pois', 'cannelle', 'persil', 'piment', 'crème végétale au soja', 'salé', 'tomate']
+tags: ['recette', 'afrique', 'poivrons', 'piments', 'oignons', 'vegan', 'végétarien', 'tempeh', 'ail', 'petits pois', 'cannelle', 'persil', 'piment', 'crème végétale au soja', 'salé', 'tomate', "végétarien"]
 ---
 
 - **Temps de préparation** : 30 minutes.

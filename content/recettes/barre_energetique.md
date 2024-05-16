@@ -2,7 +2,7 @@
 title: "Barre énergétique avoine-miel-coco"
 date: 2022-10-31T16:29:11+01:00
 commentpage: true
-tags: ['sucré', 'barre de céréale', 'barre énergétique', 'sport', 'dessert', 'avoine', 'flocons', 'chocolat noir', 'miel', 'sirop', 'érable', 'beurre de coco', 'coco', 'poudre', 'amande', 'vanille']
+tags: ['sucré', 'barre de céréale', 'barre énergétique', 'sport', 'dessert', 'avoine', 'flocons', 'chocolat noir', 'miel', 'sirop', 'érable', 'beurre de coco', 'coco', 'poudre', 'amande', 'vanille', 'végétarien']
 ---
 
 ![](/pictures/barre_nrj_1.jpeg)<br>

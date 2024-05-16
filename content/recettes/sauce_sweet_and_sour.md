@@ -1,7 +1,7 @@
 ---
 title: "Sauce salade sweet and sour"
 date: 2022-08-07T19:47:46+02:00
-tags: ['sauce','salade','sweet and sour','aigre doux','crudités','tofu soyeux','sauce soja','vinaigre balsamique','jus de citron','sirop érable','salé','recette','sans gluten','végétarien','vegan', 'sans cuisson']
+tags: ['sauce','salade','sweet and sour','aigre doux','crudités','tofu soyeux','sauce soja','vinaigre balsamique','jus de citron','sirop érable','salé','recette','sans gluten','végétarien','vegan', 'sans cuisson', "végétalien"]
 ---
 
 - **Temps de préparation** : 5 minutes.

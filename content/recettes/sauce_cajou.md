@@ -2,7 +2,7 @@
 title: "Sauce à la purée de cajou"
 date: 2022-08-06T20:49:14+02:00
 commentpage : true
-tags: ['recette','végétarien','vegan','salé','sans gluten','purée de noix','noix de cajou','crue','pâtes','sauce','sriracha','piment espelette','citron','ail','persil']
+tags: ['recette','végétarien','vegan','salé','sans gluten','purée de noix','noix de cajou','crue','pâtes','sauce','sriracha','piment espelette','citron','ail','persil', 'végétalien']
 ---
 
 ![](/pictures/sauce_cajou.jpeg)<br>

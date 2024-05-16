@@ -2,7 +2,7 @@
 title: "Tartinade au chocolat noir"
 date: 2022-07-24T19:29:36+02:00
 commentpage: true
-tags: ['tartinade', 'chocolat', 'cacao', 'graîne', 'courge', 'purée', 'chanvre', 'tournesol', 'lin', 'sésame', 'vanille', 'pâte', 'recette', 'dessert', 'sans gluten', 'végétarien', 'vegan']
+tags: ['tartinade', 'chocolat', 'cacao', 'graîne', 'courge', 'purée', 'chanvre', 'tournesol', 'lin', 'sésame', 'vanille', 'pâte', 'recette', 'dessert', 'sans gluten', 'végétarien', 'vegan', "végétalien", "goûter"]
 ---
 
 ![Pâte à tartiner au chocolat noir.](/pictures/pate_a_tartiner.jpg)<br>

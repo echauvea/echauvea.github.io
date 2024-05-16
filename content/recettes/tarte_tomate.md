@@ -2,7 +2,7 @@
 title: "Tarte rustique à la tomate confite, chèvre et menthe"
 date: 2023-09-24T03:00:35+02:00
 commentpage: true
-tags: ["salée", "pâte", "tarte", "rustique", "tomate cerise", "confite", "chèvre", "menthe", "caramel", "été", "apéritif", "fromage", "plat", "apéro", "farine complète", "huile d'olive"]
+tags: ["salée", "pâte", "tarte", "rustique", "tomate cerise", "confite", "chèvre", "menthe", "caramel", "été", "apéritif", "fromage", "plat", "apéro", "farine complète", "huile d'olive", "végétarien"]
 ---
 
 ![Tarte à la tomate cuite](/pictures/tarte_tomate_6.jpeg)<br>

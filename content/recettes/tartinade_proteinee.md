@@ -2,7 +2,7 @@
 title: "Tartinade protéinée au chocolat noir"
 date: 2022-09-27T16:42:23+02:00
 commentpage: true
-tags: ['tartinade', 'tetelle', 'chocolat noir', 'protéine', 'vegan', 'végétarien', 'sucrée', 'dessert', 'petit-dejeuner', 'goûter', 'sport', 'cacao', 'sirop érable', 'protéinée', 'pâte à tartiner']
+tags: ['tartinade', 'tetelle', 'chocolat noir', 'protéine', 'vegan', 'végétarien', 'sucrée', 'dessert', 'petit-dejeuner', 'goûter', 'sport', 'cacao', 'sirop érable', 'protéinée', 'pâte à tartiner', "végétalien"]
 ---
 
 ![Tartinade de Tetelle](/pictures/tartinade_1.jpg)
