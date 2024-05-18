@@ -11,7 +11,7 @@ tags: ['romarin', 'clous de girofle', "huile d'olive extra vierge", 'huile de ri
 - **Temps de repos** : au moins un mois.
 - **Ustensiles** : Un flacon opaque.
 
-Mon amie Salma m'a offert une huile merveilleuse pour prendre soin de mon cuir chevelu: cette huile elle sent bon et est très efficace pour apaiser le cuir chevelu. Voici sa recette.
+Mon amie <a href="https://www.instagram.com/salmamadaoui/">Salma</a>  m'a offert une huile merveilleuse pour prendre soin des cheuveux: cette huile sent bon et est très efficace pour apaiser le cuir chevelu. Sa recette vient de sa maman qui lui en prépare depuis qu'elle est petite! Elle m'a proposé de mettre sa recette sur mon blog, alors belle découverte. Les instructions d'usage se trouvent tout en bas de page 🌸
 
 ## Péparation du cosmétique
 
