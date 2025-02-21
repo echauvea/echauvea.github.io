@@ -3,7 +3,7 @@ title: "Estelle Chauveau"
 date: 2022-07-14T20:09:06+02:00
 ---
 
-![Profile](pictures/profile.jpeg)
+![Profile](pictures/PXL_20241226_095424262.PORTRAIT~3.jpeg)
 
 - [Home](/)
 - [CV](docs/CV.pdf)
