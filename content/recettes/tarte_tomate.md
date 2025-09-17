@@ -15,7 +15,7 @@ Jour 2 : 40 minutes de préparation.
 - **Ustensiles** : Un mixeur plongeant; un rouleau à pâtisserie; du pap. sulfurisé.
 - **Difficulté** : Recette assez complexe avec le caramel de tomate et la pâte délicate à travailler.
 
-Cette recette est dans un esprit différent de la plupart des articles de mon blog, elle est un peu plus délicate et demande une certaine organisation puisqu'une première étape doit être réalisée la veille pour le lendemain: il s'agit du concentré de tomates au caramel 🤤. Par contre le résultat est délicieux, subtil et surprenant. C'est une tarte à faire à la belle saison, lorsque les tomates sont de qualité. Elle est divine servie en apéro à l'occasion d'une belle soirée d'été...
+Cette recette est dans un esprit différent de la plupart des articles de mon blog, elle est un peu plus délicate et demande une certaine organisation puisqu'une première étape doit être réalisée la veille pour le lendemain: il s'agit du concentré de tomates au caramel miam! 🤤. Par contre le résultat est délicieux, subtil et surprenant. C'est une tarte à faire à la belle saison, lorsque les tomates sont de qualité. Elle est divine servie en apéro à l'occasion d'une belle soirée d'été...
 
 ## Recette
 
