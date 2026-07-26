@@ -1,15 +1,13 @@
-baseURL = 'https://echauvea.github.io/'
-locale = 'en-US'
-title = 'Estelle Chauveau — Technical Product Manager'
+baseURL = 'https://echauve.github.io'
+languageCode = 'fr'
+title = 'Estelle Chauveau Homepage'
 
 # [taxonomies]
 # tag = "tags|"
 
 theme = "hugo-ttl"
 canonifyURLs = true
-[params]
-  description = "Technical Product Manager and PhD in Computer Science. I turn complex systems and user data into clear product decisions."
-  favicon = "/favicon.svg"
+disqusShortname = 'echauvea'
 
 [markup]
   [markup.goldmark]
