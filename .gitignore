@@ -1,3 +1,4 @@
 public/**
+public-preview/**
 .hugo_build.lock
 .DS_Store

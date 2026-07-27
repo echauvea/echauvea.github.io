@@ -1,15 +1,15 @@
 ---
-title: "Traversée des Pyrénées en solitaire 2014"
+title: "Solo Crossing of the Pyrenees, 2014"
 commentpage: true
 date: 2022-09-03T18:31:57+02:00
 tags: ['Traversée des Pyrénées', 'Pyrénées', 'GR10', 'Randonnée', 'Solitaire', 'Montagne']
 ---
 
-- **Itinéraire** : sentier GR10 de l'océan Atlantique vers la mer Méditerranée
-- **Date** : août 2014
-- **Distance** : 866km
-- **Durée** : 42 jours
+- **Route**: the GR10 trail from the Atlantic Ocean to the Mediterranean Sea
+- **Date**: August 2014
+- **Distance**: 866 km
+- **Duration**: 42 days
 
-![Au sommet du petit Vignemale](/pictures/tdp.jpg)
+![At the summit of Petit Vignemale](/pictures/tdp.jpg)
 
-[Télécharger le récit (pdf)](/docs/tdp.pdf)
+[Download the full story (PDF, in French)](/docs/tdp.pdf)

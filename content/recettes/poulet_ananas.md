@@ -1,5 +1,5 @@
 ---
-title: "Poulet à l'ananas"
+title: "Pineapple Chicken"
 date: 2022-09-14T13:23:15+02:00
 commentpage: true
 tags: ['poulet', 'dinde', 'ananas', 'faitout', 'wok', 'Réunion', 'sucre de canne', 'salé', 'plat', 'sans gluten', 'poivrons', 'oignons', 'piments', 'riz', 'choux', 'carottes', 'curry', 'sriracha', 'coriandre', 'huile', 'olive']

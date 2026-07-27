@@ -1,11 +1,19 @@
 {{ partial "header.html" . -}}
-<header><h1 id="tag_{{ .Title }}">{{ .Title | title }}</h1></header>
-{{ partial "search.html" . -}}
-<article>
+<header class="page-header">
+  <p class="eyebrow">PERSONAL ARCHIVE</p>
+  <h1 id="tag_{{ .Title }}">{{ .Title }}</h1>
+</header>
+<article class="list-content">
   {{ .Content -}}
+  {{ partial "search.html" . -}}
   <ul id="article_list">
     {{- range sort .Pages "Title" }}
-    <li data-tags="{{.Params.Tags}}"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    <li data-tags="{{.Params.Tags}}">
+      <a href="{{ .RelPermalink }}">
+        <span>{{ .Title }}</span>
+        <small>Read story →</small>
+      </a>
+    </li>
     {{ end -}}
   </ul>
 </article>

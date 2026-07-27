@@ -1,5 +1,5 @@
 ---
-title: "Saumon mi-cuit au combava"
+title: "Lightly Cooked Salmon with Makrut Lime"
 date: 2022-08-08T16:26:50+02:00
 commentpage: true
 tags: ['recette', 'plat', 'salé', 'mi-cuit', 'saumon', 'cuisson vapeur', 'crème végétale soja', 'combava', 'sauce soja', 'sans gluten']

@@ -14,14 +14,26 @@
     <meta name="robots" content="index, follow">
     <meta charset="utf-8">
   </head>
-  <body>
+  <body class="kind-{{ .Kind }} section-{{ .Section }}">
+    <div class="site-shell">
+    <div class="site-topbar">
+      <a class="brand" href="{{ .Site.BaseURL }}">Estelle Chauveau<span>.</span></a>
+      <div class="topbar-links">
+        <a href="/docs/CV.pdf">CV</a>
+        <a href="https://github.com/echauvea">GitHub</a>
+        <a href="https://www.linkedin.com/in/estelle-chauveau/">LinkedIn</a>
+      </div>
+    </div>
     {{ if not .IsHome }}
-        <li class="header"><a href="{{ .Site.BaseURL }}">Home</a></li>
+      <div class="breadcrumb">
+        <a href="{{ .Site.BaseURL }}">← Home</a>
       {{ if not .IsSection }}
-        <li class="header"><a href="{{ .Site.BaseURL }}{{.Section}}">Retourner aux {{ .CurrentSection.Title }}</a></li>
+        <span>/</span>
+        <a href="{{ .Site.BaseURL }}{{.Section}}">Back to {{ .CurrentSection.Title }}</a>
       {{ end }}
+      </div>
     {{ end }}
     {{- if .Site.Menus.main }}
     {{ partial "nav.html" . }}
     {{ end }}
-    <main>
+    <main class="site-main">

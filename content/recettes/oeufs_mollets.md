@@ -1,5 +1,5 @@
 ---
-title: "Oeufs mollets"
+title: "Soft-Boiled Eggs"
 date: 2022-07-31T19:36:00+02:00
 commentpage: true
 tags: ['oeufs mollets','végétarien','salé', 'recette', 'cuisson']
