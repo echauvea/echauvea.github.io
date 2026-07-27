@@ -1,5 +1,8 @@
 {{ partial "header.html" . -}}
-<header><h1>{{ .Title }}</h1></header>
-<article>
+<header class="page-header article-header">
+  <p class="eyebrow">{{ .CurrentSection.Title }}</p>
+  <h1>{{ .Title }}</h1>
+</header>
+<article class="article-content">
 {{ .Content -}}
 {{ partial "footer.html" . }}

@@ -1,6 +1,6 @@
-baseURL = 'https://echauve.github.io'
-languageCode = 'fr'
-title = 'Estelle Chauveau Homepage'
+baseURL = 'https://echauvea.github.io'
+languageCode = 'en'
+title = 'Estelle Chauveau'
 
 # [taxonomies]
 # tag = "tags|"

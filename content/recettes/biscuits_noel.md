@@ -1,5 +1,5 @@
 ---
-title: "Sablés aux épices de Noël"
+title: "Christmas Spice Shortbread"
 date: 2023-11-26T18:32:58+01:00
 commentpage: true
 tags: ['dessert', 'sucré', 'sablé', 'biscuit', 'goûter', 'Noël', 'oeuf', 'miel', 'épices', 'cannelle', 'beurre', 'amande', "beurre d'amande", "purée d'amande", 'décorer', "pain d'épices", "végétarien"]

@@ -1,5 +1,5 @@
 ---
-title: "Scooblies : les cookies sablés!"
+title: "Scooblies: Shortbread Cookies"
 date: 2024-04-22T18:39:43+02:00
 commentpage: true
 tags: ['sablés', 'chocolat', 'noir', 'fleur de sel', 'sel', 'sucré', 'dessert', 'goûter', 'gâteau', 'biscuit', 'pépite', 'beurre', 'chanvre', 'oléagineux', 'cookies', 'cajou', 'vanille', "végétarien"]

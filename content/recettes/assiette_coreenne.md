@@ -1,5 +1,5 @@
 ---
-title: "Assiette d'inspiration coréenne"
+title: "Korean-Inspired Rice Bowl"
 date: 2022-07-24T13:15:50+02:00
 commentpage: true
 tags: ['salé', 'épinard', 'oeufs', 'riz', 'soja', 'sésame', 'asie', 'végétarien', 'asiatique', 'sriracha', 'piment', 'coréen', 'huile de colaz', 'sésame', 'légumes']

@@ -1,5 +1,5 @@
 ---
-title: "Ramen végétariens aux nouilles de riz"
+title: "Vegetarian Rice-Noodle Ramen"
 date: 2022-07-31T19:57:20+02:00
 commentpage: true
 tags: ['ramen','végétarien','bouillon','japonais','salé','oeufs','légumes','choux','carottes','champignons','oignon','nouilles de riz','ail','huile de sésame','coriandre','gingembre','miso','sriracha', 'recette', 'sans gluten']
