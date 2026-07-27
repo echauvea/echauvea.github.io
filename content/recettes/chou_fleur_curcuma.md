@@ -1,5 +1,5 @@
 ---
-title: "Turmeric Cauliflower with Tempeh"
+title: "Chou fleur au tempeh et curcuma"
 date: 2022-07-26T14:17:05+02:00
 commentpage: true
 tags: ['curcuma','chou fleur','oignon','tempeh','huile de colza','végétarien','vegan','soja','vapeur','salé','recette', "végétalien", "légumes"]

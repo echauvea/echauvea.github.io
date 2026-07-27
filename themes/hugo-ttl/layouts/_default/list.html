@@ -1,20 +1,90 @@
 {{ partial "header.html" . -}}
-<header class="page-header">
-  <p class="eyebrow">PERSONAL ARCHIVE</p>
+{{ $isRecipes := eq .Section "recettes" -}}
+{{ $isStories := eq .Section "recits_courses" -}}
+{{ if $isRecipes }}
+<div class="recipe-watermarks" aria-hidden="true">
+  <span>🍰</span>
+  <span>🍪</span>
+  <span>🍩</span>
+  <span>🥧</span>
+  <span>🎂</span>
+  <span>🧁</span>
+  <span>🍓</span>
+  <span>🍰</span>
+  <span>🍪</span>
+  <span>🍩</span>
+  <span>🥧</span>
+  <span>🎂</span>
+</div>
+{{ end }}
+<header class="page-header{{ if $isRecipes }} recipe-header{{ end }}{{ if $isStories }} stories-header{{ end }}">
+  {{ if and (not $isRecipes) (not $isStories) }}<p class="eyebrow">PERSONAL ARCHIVE</p>{{ end }}
+  {{ if $isRecipes }}
+  <div class="recipe-title-row">
+    <h1 id="tag_{{ .Title }}">{{ .Title }}</h1>
+    <span class="recipe-unicorn" aria-hidden="true">🦄</span>
+  </div>
+  {{ else }}
   <h1 id="tag_{{ .Title }}">{{ .Title }}</h1>
+  {{ end }}
 </header>
-<article class="list-content">
-  {{ .Content -}}
-  {{ partial "search.html" . -}}
+<article class="list-content{{ if $isRecipes }} recipe-index{{ end }}{{ if $isStories }} stories-index{{ end }}">
+  {{ if not $isStories }}
+    {{ .Content -}}
+    {{ partial "search.html" . -}}
+  {{ end }}
+  {{ if $isRecipes }}
+  <div id="article_list" class="recipe-clusters">
+    <section class="recipe-cluster recipe-cluster-sweet">
+      <h2><span aria-hidden="true">🍰</span> Sucré</h2>
+      <ul class="recipe-grid">
+      {{- range sort .Pages "Title" }}
+        {{- $isSweet := or (in .Params.Tags "dessert") (and (or (in .Params.Tags "sucré") (in .Params.Tags "sucrée")) (not (or (in .Params.Tags "salé") (in .Params.Tags "salée")))) -}}
+        {{- if $isSweet }}{{ partial "recipe-card.html" . }}{{ end -}}
+      {{- end }}
+      </ul>
+    </section>
+    <section class="recipe-cluster recipe-cluster-savory">
+      <h2><span aria-hidden="true">🥧</span> Salé</h2>
+      <ul class="recipe-grid">
+      {{- range sort .Pages "Title" }}
+        {{- $isSweet := or (in .Params.Tags "dessert") (and (or (in .Params.Tags "sucré") (in .Params.Tags "sucrée")) (not (or (in .Params.Tags "salé") (in .Params.Tags "salée")))) -}}
+        {{- if not $isSweet }}{{ partial "recipe-card.html" . }}{{ end -}}
+      {{- end }}
+      </ul>
+    </section>
+  </div>
+  {{ else if $isStories }}
+  <ul id="article_list" class="stories-grid">
+    {{- range sort .Pages "Title" }}
+    {{- $imageMatches := findRE `!\[[^\]]*\]\((/pictures/[^)\s]+)` .RawContent 1 -}}
+    <li>
+      <a href="{{ .RelPermalink }}" class="story-card">
+        {{ if gt (len $imageMatches) 0 }}
+        {{- $imagePath := replaceRE `^.*\((/pictures/[^)\s]+).*$` "$1" (index $imageMatches 0) -}}
+        <span class="story-thumb">
+          <img src="{{ $imagePath }}" alt="" loading="lazy">
+        </span>
+        {{ end }}
+        <span class="story-copy">
+          <span class="article-list-title">{{ .Title }}</span>
+          <small>Read story →</small>
+        </span>
+      </a>
+    </li>
+    {{ end -}}
+  </ul>
+  {{ else }}
   <ul id="article_list">
     {{- range sort .Pages "Title" }}
     <li data-tags="{{.Params.Tags}}">
       <a href="{{ .RelPermalink }}">
-        <span>{{ .Title }}</span>
+        <span class="article-list-title">{{ .Title }}</span>
         <small>Read story →</small>
       </a>
     </li>
     {{ end -}}
   </ul>
+  {{ end }}
 </article>
 {{- partial "footer.html" . }}

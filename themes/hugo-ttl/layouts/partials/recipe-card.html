@@ -1,0 +1,13 @@
+{{- $imageMatches := findRE `!\[[^\]]*\]\((/pictures/[^)\s]+)` .RawContent 1 -}}
+{{- $hasImage := gt (len $imageMatches) 0 -}}
+<li data-tags="{{ .Params.Tags }}">
+  <a href="{{ .RelPermalink }}" class="{{ if $hasImage }}has-image{{ else }}no-image{{ end }}">
+    {{ if $hasImage }}
+    {{- $imagePath := replaceRE `^.*\((/pictures/[^)\s]+).*$` "$1" (index $imageMatches 0) -}}
+    <span class="recipe-thumb">
+      <img src="{{ $imagePath }}" alt="" loading="lazy">
+    </span>
+    {{ end }}
+    <span class="article-list-title">{{ .Title }}</span>
+  </a>
+</li>

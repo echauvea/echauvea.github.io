@@ -1,5 +1,5 @@
 ---
-title: "Rustic Caramelised Tomato, Goat Cheese & Mint Tart"
+title: "Tarte rustique à la tomate confite, chèvre et menthe"
 date: 2023-09-24T03:00:35+02:00
 commentpage: true
 tags: ["salée", "pâte", "tarte", "rustique", "tomate cerise", "confite", "chèvre", "menthe", "caramel", "été", "apéritif", "fromage", "plat", "apéro", "farine complète", "huile d'olive", "végétarien"]

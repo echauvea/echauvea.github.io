@@ -1,5 +1,5 @@
 ---
-title: "Sweet & Savoury Parmesan-Crusted Cod"
+title: "Cabillaud en croûte de parmesan sucrée-salée"
 date: 2022-07-26T13:29:57+02:00
 commentpage: true
 tags: ['recette', 'cabillaud','poisson','parmesan','sucré','salé','corn flakes','huile', 'olive','sirop', 'érable','croûte']

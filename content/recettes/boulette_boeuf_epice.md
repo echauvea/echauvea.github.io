@@ -1,5 +1,5 @@
 ---
-title: "Easy Spiced Beef Meatballs"
+title: "Boulettes de boeuf épicées simplissimes"
 date: 2022-07-25T17:25:51+02:00
 commentpage: true
 tags: ['recette', 'salé', 'simple', 'viande','boeuf','oignon','cumin','soja','boulette','épice','avoine']
