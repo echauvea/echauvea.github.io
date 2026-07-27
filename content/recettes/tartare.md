@@ -1,5 +1,5 @@
 ---
-title: "Salmon Tartare"
+title: "Tartare de saumon"
 date: 2022-08-08T16:28:50+02:00
 commentpage: true
 tags: ['recette', 'salée', 'tartare', 'saumon', 'sans gluten', 'cru', 'sans cuisson', 'huile de sésame', 'citron vert', 'sauce soja', 'coriandre', 'échalotte', 'mangue', 'frais', 'plat']

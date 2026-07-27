@@ -1,5 +1,5 @@
 ---
-title: "Mascarpone & Sweet Orange Whipped Cream"
+title: "Chantilly au mascarpone et à l'orange douce"
 date: 2022-10-23T17:25:04+02:00
 commentpage: true
 tags: ['chantilly', 'orange douce', 'huile essentielle', 'mascarpone', 'sucre glace', 'sucré', 'dessert', 'sans gluten', 'crème fouettée', "végétarien"]

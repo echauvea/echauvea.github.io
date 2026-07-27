@@ -1,5 +1,5 @@
 ---
-title: "Avocado & Cocoa Smoothie"
+title: "Smoothie avocat cacao"
 date: 2022-08-08T16:27:50+02:00
 commentpage: true
 tags: ['recette', 'dessert', 'smoothie', 'végétarien', 'vegan', 'sans gluten', 'avocat', 'cacao', 'banane', 'cru', 'sans cuisson', "végétalien", "cru", "fuits"]

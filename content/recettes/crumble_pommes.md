@@ -1,5 +1,5 @@
 ---
-title: "Quick Apple & Banana Crumble"
+title: "Crumble pomme/banane express"
 date: 2022-10-04T16:55:02+02:00
 commentpage: true
 tags: ['crumble', 'pomme', 'banane', 'express', 'beurre', 'amande', 'dessert', 'sucré', 'cassonade', 'sucre rapadura', 'végétarien', 'compote de pomme', 'farine', 'gourmand', 'chaud', 'fruits']

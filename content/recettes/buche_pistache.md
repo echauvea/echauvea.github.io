@@ -1,5 +1,5 @@
 ---
-title: "Pistachio & Vanilla Yule Log"
+title: "Bûche roulée pistache vanille"
 date: 2024-01-01T16:36:35+01:00
 commentpage: true
 tags: ['bûche', 'roulée', 'pistache', 'pâte de pistache', 'beurre de pistache', 'Noël', "sucré", 'dessert', 'beurre', 'génoise', 'sirop', 'crème au beurre', 'vanille', 'sucre', 'fête', 'pâtisserie', "végétarien"]

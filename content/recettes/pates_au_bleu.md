@@ -1,5 +1,5 @@
 ---
-title: "Shropshire Blue Carbonara-Style Pasta"
+title: "Pâtes carbo revisitées au Shropshire (bleu anglais 🇬🇧)"
 date: 2022-11-11T09:53:15+01:00
 commentpage: true
 tags: ['pâtes carbonara', 'salé', 'plat', 'oignons', 'lardons', 'crème fraîche', 'fromage', 'Shropshire', 'bleu', 'spaghetti', 'anglais', 'simple']

@@ -5,7 +5,7 @@
       </article>
     </main>
     <footer class="site-footer">
-      <span>Estelle Chauveau · Technical Product Manager</span>
+      <span>{{ if eq .Section "recettes" }}Estelle Chauveau · Carnet de cuisine personnel{{ else }}Estelle Chauveau · Technical Product Manager{{ end }}</span>
       <span class="unicorn" title="A discreet unicorn" aria-label="A discreet unicorn">🦄</span>
     </footer>
     </div>

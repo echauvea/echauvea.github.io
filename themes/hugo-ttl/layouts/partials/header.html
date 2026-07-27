@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.Language }}">
+<html lang="{{ if eq .Section "recettes" }}fr{{ else }}{{ .Site.Language }}{{ end }}">
   <head>
-    <title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
+    <title>{{ if not .IsHome }}{{ if eq .Section "recettes" }}{{ .Title }}{{ else }}{{ .Title | title }}{{ end }} | {{ end }}{{ .Site.Title }}</title>
     <link rel="canonical" href="{{ .Site.BaseURL }}">
     <link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
     <link rel='stylesheet' type='text/css' href='/style.css?v={{ now.Unix }}'>
@@ -26,10 +26,14 @@
     </div>
     {{ if not .IsHome }}
       <div class="breadcrumb">
-        <a href="{{ .Site.BaseURL }}">← Home</a>
+        <a href="{{ .Site.BaseURL }}">← {{ if eq .Section "recettes" }}Accueil{{ else }}Home{{ end }}</a>
       {{ if not .IsSection }}
         <span>/</span>
+        {{ if eq .Section "recettes" }}
+        <a href="/recettes/">Retour aux recettes</a>
+        {{ else }}
         <a href="{{ .Site.BaseURL }}{{.Section}}">Back to {{ .CurrentSection.Title }}</a>
+        {{ end }}
       {{ end }}
       </div>
     {{ end }}
