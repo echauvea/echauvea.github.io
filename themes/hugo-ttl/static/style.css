@@ -813,6 +813,21 @@ h3 {
   object-fit: cover;
 }
 
+.recipe-photo-pair {
+  display: grid;
+  gap: 18px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: 12px 0 34px;
+}
+
+.article-content .recipe-photo-pair img {
+  aspect-ratio: 3 / 4;
+  height: 100%;
+  margin: 0;
+  object-fit: cover;
+  width: 100%;
+}
+
 .article-content li {
   margin-bottom: .45em;
 }
@@ -959,6 +974,10 @@ h3 {
   }
 
   .recipe-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .recipe-photo-pair {
     grid-template-columns: 1fr;
   }
 
