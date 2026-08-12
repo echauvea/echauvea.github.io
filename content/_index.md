@@ -28,6 +28,14 @@ description: "Technical Product Manager turning complex systems, data and AI int
   </div>
   <div class="project-grid">
     <article class="project-card">
+      <h3>Réveil</h3>
+      <p>Daily personalized press review, automatically generated and deployed to a VPS. Multi-pass editorial pipeline with automated quality controls.</p>
+      <div class="project-links">
+        <a href="https://actu.echauvea.com">Live site <span>↗</span></a>
+        <a href="https://github.com/echauvea/reveil">GitHub <span>↗</span></a>
+      </div>
+    </article>
+    <article class="project-card">
       <h3>LOTUSim Scenario Generator</h3>
       <p>Ontology and HTN-planning pipeline for generating maritime simulation scenarios.</p>
       <a href="https://github.com/echauvea/lotusim-scenario-generator">GitHub <span>↗</span></a>

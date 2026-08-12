@@ -265,6 +265,20 @@ h3 {
   grid-row: 1 / span 2;
 }
 
+.project-card .project-links {
+  align-self: center;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  grid-column: 2;
+  grid-row: 1 / span 2;
+}
+
+.project-card .project-links a {
+  white-space: nowrap;
+}
+
 .project-card .card-kicker {
   color: var(--muted);
   font-size: .61rem;
