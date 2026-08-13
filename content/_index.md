@@ -35,8 +35,8 @@ description: "Technical Product Manager turning complex systems, data and AI int
         <a href="https://github.com/echauvea/race-dashboard">GitHub <span>↗</span></a>
       </div>
     </article>
-    <article class="project-card">
-      <h3>Réveil</h3>
+    <article class="project-card project-card-featured">
+      <h3>Today’s Brief</h3>
       <p>Daily personalized press review, automatically generated and deployed to a VPS. Multi-pass editorial pipeline with automated quality controls.</p>
       <div class="project-links">
         <a href="https://actu.echauvea.com">Live site <span>↗</span></a>
