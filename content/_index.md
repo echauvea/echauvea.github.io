@@ -27,6 +27,14 @@ description: "Technical Product Manager turning complex systems, data and AI int
     <h2>Projects</h2>
   </div>
   <div class="project-grid">
+    <article class="project-card project-card-featured">
+      <h3>Race Dashboard <span class="project-badge">Featured</span></h3>
+      <p>Responsive PWA for creating, sharing and tracking multiple race training plans, with session completion, notes, weekly mileage charts and secure editing.</p>
+      <div class="project-links">
+        <a href="https://race.echauvea.com/">Live site <span>↗</span></a>
+        <a href="https://github.com/echauvea/race-dashboard">GitHub <span>↗</span></a>
+      </div>
+    </article>
     <article class="project-card">
       <h3>Réveil</h3>
       <p>Daily personalized press review, automatically generated and deployed to a VPS. Multi-pass editorial pipeline with automated quality controls.</p>

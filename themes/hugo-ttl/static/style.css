@@ -240,6 +240,31 @@ h3 {
   padding: 11px 2px 7px;
 }
 
+.project-card-featured {
+  background: linear-gradient(100deg, var(--blush), rgba(255, 255, 255, .55));
+  border: 1px solid rgba(196, 155, 166, .38);
+  border-left: 4px solid var(--rose);
+  border-radius: 12px;
+  margin-bottom: 7px;
+  padding: 15px 16px 12px;
+}
+
+.project-badge {
+  background: rgba(196, 155, 166, .18);
+  border: 1px solid rgba(196, 155, 166, .45);
+  border-radius: 999px;
+  color: var(--plum);
+  display: inline-block;
+  font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif;
+  font-size: .56rem;
+  font-weight: 800;
+  letter-spacing: .1em;
+  margin-left: 8px;
+  padding: 4px 7px 3px;
+  text-transform: uppercase;
+  transform: translateY(-2px);
+}
+
 .project-card h3 {
   font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif;
   font-size: 1.05rem;
